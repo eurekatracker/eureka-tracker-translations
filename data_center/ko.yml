@@ -1,0 +1,22 @@
+data_center:
+  name:
+    1: "Elemental"
+    2: "Gaia"
+    3: "Mana"
+    4: "Aether"
+    5: "Primal"
+    6: "Chaos"
+
+  finder:
+    trackersIn: "{zone}의 트래커"
+
+    table:
+      trackerId: "트래커 ID"
+      zone: "지역"
+      instanceId: "인스턴스 ID"
+      lastUpdated: "마지막 업데이트"
+      timeActive: "활성화 시간"
+      nmsPopped: "마물 소환"
+
+    tooltip:
+      nmRespawn: "{nm} ({time} 후 리스폰)"

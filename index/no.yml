@@ -1,0 +1,7 @@
+index:
+  trackerId: 'Sporer ID'
+  enter: 'Gå'
+  createNewTracker: 'Lag ny {zone} sporer'
+  useLocalTracker: 'Bruk lokal sporer'
+  creatingInstance: 'Laster inn...'
+  findTrackers: 'Find Trackers'

@@ -1,0 +1,59 @@
+logogram_acquisitions:
+  "chain-30": "30チェーン"
+  "coffer-bronze": "青銅の宝箱"
+  "coffer-gold": "黄金の宝箱"
+  "coffer-silver": "白銀の宝箱"
+  "heatbox": "変異箱"
+  "sprite-conceptual": "自レベル以上のスプライト"
+  "sprite-fundamental": "Lv 41 サンダーストームスプライト"
+  "sprite-mitigative": "Lv 46 サンダーストームスプライト"
+  "undead-adaptation": "アンデッドの環境適応"
+
+  "sprite-adaptation-inimical": |-
+    <ul>
+      <li>Lv 52 環境適応スノウストームスプライト</li>
+      <li>Lv 54 環境適応サンダーストームスプライト</li>
+      <li>Lv 55 環境適応タイフーンスプライト</li>
+    </ul>
+
+  "sprite-adaptation-mitigative": |-
+    <ul>
+      <li>Lv 43 環境適応エンバースプライト</li>
+      <li>Lv 46 環境適応サンダーストームスプライト</li>
+    </ul>
+
+  "NM-curative": |-
+    <ul>
+      <li>レウコシア</li>
+      <li>グラフアカネ</li>
+      <li>アイトロス</li>
+      <li>イリス</li>
+      <li>ランバージャック</li>
+      <li>ペンテシレイア</li>
+    </ul>
+
+  "NM-inimical": |-
+    <ul>
+      <li>ソフィスト</li>
+      <li>デューク</li>
+      <li>エルドスルス</li>
+      <li>ドゥクス</li>
+      <li>インヤン</li>
+    </ul>
+
+  "NM-protective": |-
+    <ul>
+      <li>フラウロス</li>
+      <li>アスカラポス</li>
+      <li>レサト</li>
+      <li>傭兵のレイムプリクス</li>
+      <li>グラウコ</li>
+      <li>スコル</li>
+    </ul>
+
+  "NM-obscure": |-
+    <ul>
+      <li>カラマリ</li>
+      <li>ステゴドン</li>
+      <li>+NM トリガー</li>
+    </ul>

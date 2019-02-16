@@ -1,0 +1,42 @@
+logos_action_filters:
+  # jobs
+  1: "tank"
+  2: "healer"
+  3: "melee dps"
+  4: "physical ranged dps"
+  5: "magical ranged dps"
+
+  # attributes
+  6: "dmg"
+  7: "physical dmg"
+  8: "magic dmg"
+  9: "ranged dmg"
+  10: "acc"
+
+  11: "def"
+  12: "physical def"
+  13: "magical def"
+  14: "eva"
+
+  15: "hp"
+  16: "mp"
+  17: "tp"
+  18: "max hp"
+  19: "max mp"
+
+  20: "buff"
+  21: "debuff"
+
+  22: "poison"
+  23: "paralysis"
+  24: "stun"
+  25: "slow"
+
+  26: "movement speed"
+  27: "mount speed"
+  28: "recast speed"
+
+  29: "ko"
+  30: "raise"
+  31: "enmity"
+  32: "aoe"

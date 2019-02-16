@@ -1,0 +1,15 @@
+index:
+  trackerId: 'トラッカーID'
+  enter: '確定'
+  createNewTracker: '新しい{zone}トラッカーを作成'
+  useLocalTracker: 'ローカルトラッカーを使用'
+  creatingInstance: 'ロード中...'
+  findTrackers: 'トラッカーを探す'
+
+  messages:
+    noLongerAvailable: "トラッカー {id}は非アクティブのため利用出来ません。"
+    serverError: "リクエストの処理中にエラーが発生しました。再度お試しください。"
+    notFound: "このトラッカーは存在しません。"
+
+  tooltips:
+    detailedMap: "{zone}詳細マップ"

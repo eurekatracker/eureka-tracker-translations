@@ -1,0 +1,6 @@
+time:
+  abbr:
+    hours: "{hours}小时"
+    minutes: "{minutes}分钟"
+    seconds: "{seconds}秒钟"
+    hours_minutes: "{hours}小时 {minutes}分钟"

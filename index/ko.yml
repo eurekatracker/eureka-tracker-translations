@@ -1,0 +1,15 @@
+index:
+  trackerId: "트래커 ID"
+  enter: "입장"
+  createNewTracker: "{zone} 트래커 생성"
+  useLocalTracker: "로컬 트래커 사용"
+  creatingInstance: "로딩 중..."
+  findTrackers: "트래커 검색"
+
+  messages:
+    noLongerAvailable: "{id} 트래커는 활동이 없으므로 더 이상 이용할 수 없습니다"
+    serverError: "요청을 처리하는 도중 에러가 발생했습니다, 다시 시도해주세요"
+    notFound: "찾고 있는 트레커가 존재하지 않습니다"
+
+  tooltips:
+    detailedMap: "{zone} 상세 맵"

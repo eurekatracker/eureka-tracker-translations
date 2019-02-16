@@ -1,0 +1,15 @@
+index:
+  trackerId: "Tracker ID"
+  enter: "进入"
+  createNewTracker: "新建{zone}Tracker"
+  useLocalTracker: "使用本地Tracker"
+  creatingInstance: "加载中..."
+  findTrackers: "查找 Trackers"
+
+  messages:
+    noLongerAvailable: "Tracker {id} 由于不活动已被停用"
+    serverError: "处理您的请求时出错，请重试"
+    notFound: "您正在寻找的Tracker不存在"
+
+  tooltips:
+    detailedMap: "{zone} 细节地图"

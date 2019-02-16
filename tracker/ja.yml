@@ -1,0 +1,87 @@
+tracker:
+  trackerId: 'トラッカーID'
+  instance: 'インスタンス'
+  pw: 'パス'
+  copyToClipboard: 'クリップボードにコピー'
+  level: 'レベル'
+  notoriousMonster: 'NM'
+  spawnedBy: 'トリガー'
+  position: '座標'
+  popped: 'ポップ済み'
+  respawn: 'リスポーン'
+  gales: '暴風'
+  weather: '天気'
+  night: '夜'
+  nextGalesIn: '次の暴風まで'
+  nextSpecialWeatherIn: '次の {weather} まで'
+  galesIn: '暴風まで'
+  specialWeatherIn: '{weather}まで'
+  nightIn: '夜まで'
+  nightBeginsIn: '夜が始まるまで'
+  nightEndsIn: '夜が終わるまで'
+  askingForPazuzu: '{viewers}人が閲覧中'
+  resetAllWarning: '警告: 全てのNMのスポーン時間をリセットします。続行しますか？'
+  exportTracker: 'トラッカーをエクスポート'
+  enterPassword: 'パスワード入力'
+  dataCenter: "データセンター"
+  instanceId: "インスタンスID"
+
+  timeDialog:
+    timeAgo: '相対時間'
+    localTime: 'ローカル時間'
+    hourShort: '時'
+    minuteShort: '分'
+    secondShort: '秒'
+    minutesAgo: '{count} 分前'
+    hoursAgo: '{count} 時間'
+
+  button:
+    pop: 'ポップ'
+    reset: 'リセット'
+    resetAll: '全てリセット'
+
+  tooltips:
+    copied: 'コピーしました'
+    copyTrackerId: 'トラッカーID'
+    copyTrackerUrl: 'トラッカーURL'
+    copyTrackerPassword: 'トラッカーパスワード'
+    copyKilledNm: '討伐済みのNM'
+    copySoonNm: 'もうすぐ出現可能なNM'
+    copyAvailNm: '出現可能なNM'
+    copyTimeToWeather: '次の{weather}までの時間'
+    copyTimeToNight: "夜間サイクル"
+    isBossUp: '"{boss}はまだですか？"'
+    spamItAll: '全てコピー'
+    exportToLocalTracker: 'ローカルトラッカーにエクスポート'
+    exportToNewTracker: '共有トラッカーにエクスポート'
+    enterTrackerPassword: 'トラッカーパスワードを入力'
+    setInstanceInformation: 'インスタンスデータを編集'
+    dataCenterInfo: "データセンターを入力しておく事でトラッカーが検索可能になります。インスタンスIDはサードパーティツールを使う事で取得する事が出来ますが、必須ではありません。"
+    prepped: "NM仕込み済み"
+
+  clipboard:
+    specialWeatherInTime: "{weather}まで{time}"
+    listSeparator: " \u2192 "
+    onCooldown: 'NMリポップ時間: {list}'
+    respawningSoon: "もうすぐリポップするNM: {list}"
+    openNow: 'リポップ可能なNM: {list}'
+    nmAvailable: "{nm} (OK)"
+    nmRespawn: '{nm} ({respawn})'
+    listNone: 'なし'
+    weatherCurrent: "\u2605 現在の天候は{weather}。次の天候は{weather}で{time}からです。"
+    weatherNext: "\u2605 次の天候は{weather}で{time}からです。"
+    nightEnds: "\u2605 夜の終わりまで{time}"
+    nightBegins: "\u2605 夜の開始まで{time}"
+    boss:
+      available: '\u2605 "{boss}はまだですか？" まだです！ (\uFF89\u00B0\u30EE\u00B0)\uFF89'
+      availableWeather: '\u2605 "{boss}はまだですか？" まだです！ ( ; \u0434 ; ) >>> 次の{weather}は{weatherTime}'
+      dead: '\u2605 "{boss}はまだですか？" 終わりました！ (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> リポップまで{time}'
+      deadWeather: '\u2605 "{boss}はまだですか？" 終わりました！ (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> リポップまで{time}, 次の{weather}は{weatherTime}'
+    spamItAll:
+      text: "\u2605 トラッカー: {url} \u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605"
+      localTrackerText: "\u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605"
+      weatherNext: "{weather}まで{time}"
+      weatherCurrent: "{weather}の終わりまで{endTime} -- 次の{weather}は{time}"
+      weatherSeparator: " \u2605 "
+      nightEnds: "夜の終わりまで{time}"
+      nightBegins: "夜の開始まで{time}"

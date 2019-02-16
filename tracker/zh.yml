@@ -1,0 +1,61 @@
+tracker:
+  trackerId: 'tracker id'
+  instance: 'instance'
+  pw: '密码'
+  copyToClipboard: '复制到剪切板'
+  level: '等级'
+  notoriousMonster: 'NM'
+  spawnedBy: '触发怪'
+  position: '位置'
+  popped: '出现'
+  respawn: '再次触发'
+  gales: '强风'
+  weather: '天气'
+  night: '夜晚'
+  nextGalesIn: '下次强风在'
+  nextSpecialWeatherIn: '下次{weather}在'
+  galesIn: '强风在'
+  specialWeatherIn: '{weather}在'
+  nightIn: '夜晚在'
+  nightBeginsIn: '夜晚开始于'
+  nightEndsIn: '夜晚结束于'
+  askingForPazuzu: '{viewers}观察'
+  resetAllWarning: '警告：这会重置所有NM怪物的击破时间，您确定吗？'
+  exportTracker: '导出tracker'
+  enterPassword: '输入密码'
+
+  timeDialog:
+    timeAgo: '过去时间'
+    localTime: '本地时间'
+    hourShort: '小时'
+    minuteShort: '分钟'
+    secondShort: '秒钟'
+    minutesAgo: '{count} 分钟之前'
+    hoursAgo: '{count} 小时'
+
+  button:
+    pop: '出现'
+    reset: '重置'
+    resetAll: '重置所有'
+
+  tooltips:
+    copied: '已复制=￣ω￣='
+    copyTrackerId: '复制 Tracker ID'
+    copyTrackerUrl: '复制 Tracker 网址'
+    copyTrackerPassword: '复制 Tracker 密码'
+    copyKilledNm: '复制已杀死的NM'
+    copySoonNm: '复制即将出现的NM'
+    copyAvailNm: '复制可触发的NM'
+    copyTimeToWeather: "复制下次{weather}时间"
+    copyTimeToNight: "夜晚时间"
+    isBossUp: '"{boss}来了mua??"'
+    spamItAll: '复制所有数据'
+    exportToLocalTracker: '导出为本地Tracker'
+    exportToNewTracker: '导出为共享Tracker'
+    enterTrackerPassword: '输入Tracker密码'
+    setInstanceInformation: "修改实例数据"
+    dataCenterInfo: '输入实例所在服务器将允许此Tracker可被搜索。 如果需要，可以使用第三方工具获取实例ID。'
+    prepped: '触发情况'
+
+  clipboard:
+    specialWeatherInTime: "{weather}还有{time}"

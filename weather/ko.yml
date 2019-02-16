@@ -1,0 +1,10 @@
+weather:
+  Gales: "폭풍"
+  "Fair Skies": "맑음"
+  Showers: "폭우"
+  Snow: "눈"
+  Blizzards: "눈보라"
+  Thunder: "번개"
+  "Heat Waves": "작열파"
+  Fog: "안개"
+  "Umbral Wind": "그림자바람"

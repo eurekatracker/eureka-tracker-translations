@@ -1,0 +1,63 @@
+tracker:
+  trackerId: 'sporer id'
+  instance: 'instance'
+  pw: 'po'
+  copyToClipboard: 'kopier til utklippstavle'
+  level: 'Nivå'
+  notoriousMonster: 'NM'
+  spawnedBy: 'Fremkalt Av'
+  position: 'POS'
+  popped: 'Fremkalt'
+  respawn: 'Tilbakevender'
+  gales: 'Kuling'
+  weather: 'Vær'
+  night: 'Natt'
+  nextGalesIn: 'neste kuling om'
+  nextSpecialWeatherIn: 'neste {weather} om'
+  galesIn: 'kuling om'
+  specialWeatherIn: '{weather} om'
+  nightIn: 'natt om'
+  nightBeginsIn: 'natten begynner om'
+  nightEndsIn: 'natten slutter om'
+  askingForPazuzu: '{viewers} spør om Pazuzu er her'
+  resetAllWarning: 'Advarsel: Denne knappen vil tilbakestille tiden for alle drepte NM. Er du sikker?'
+  exportTracker: 'eksporter sporer'
+  enterPassword: 'skriv inn passord'
+
+  timeDialog:
+    timeAgo: 'siden'
+    localTime: 'lokal tid'
+    hourShort: 't'
+    minuteShort: 'm'
+    secondShort: 's'
+    minutesAgo: |-
+      {count} {count, plural,
+        one {minutt}
+        other {minutter}
+      } siden
+    hoursAgo: '{count} timer'
+
+  button:
+    pop: 'Oppe'
+    reset: 'Tilbakest'
+    resetAll: 'Tilbk.st alt'
+
+  tooltips:
+    copied: 'Kopiert!'
+    copyTrackerId: 'Kopier sporer id'
+    copyTrackerUrl: 'Kopier sporer URL'
+    copyTrackerPassword: 'Kopier sporer passord'
+    copyKilledNm: 'Kopier drepte NM'
+    copySoonNm: 'Kopier NM som er snart tigjengelige'
+    copyAvailNm: 'Kopier tilgjengelige NM'
+    copyTimeToWeather: 'Kopier tid til neste {weather}'
+    copyTimeToNight: 'night cycle'
+    isBossUp: '"Er {boss} her??"'
+    spamItAll: 'Skrik Ut Alt'
+    exportToLocalTracker: 'Eksporter til lokal sporer'
+    exportToNewTracker: 'Eksporter til delt sporer'
+    enterTrackerPassword: 'Skriv inn passord til sporer'
+    setInstanceInformation: 'edit instance data'
+
+  clipboard:
+    specialWeatherInTime: '{weather} om {time}'

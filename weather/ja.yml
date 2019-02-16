@@ -1,0 +1,12 @@
+weather:
+  Gales: '暴風'
+  "Fair Skies": '快晴'
+  Showers: '暴雨'
+  Snow: '雪'
+  Blizzards: '吹雪'
+  Thunder: '雷'
+  "Heat Waves": '灼熱'
+  Fog: '霧'
+  "Umbral Wind": '霊風'
+  Gloom: '乱霊流'
+  Thunderstorms: '雷雨'

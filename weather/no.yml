@@ -1,0 +1,10 @@
+weather:
+  Gales: 'Kuling'
+  "Fair Skies": 'Lettskyet'
+  Showers: 'Regn'
+  Snow: 'Snøbyger'
+  Blizzards: 'Blizzards'
+  Thunder: 'Thunder'
+  "Heat Waves": 'Heat Waves'
+  Fog: 'Fog'
+  "Umbral Wind": 'Umbral Wind'

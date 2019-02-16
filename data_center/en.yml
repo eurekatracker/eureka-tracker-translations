@@ -1,0 +1,23 @@
+data_center:
+  name:
+    1: "Elemental"
+    2: "Gaia"
+    3: "Mana"
+    4: "Aether"
+    5: "Primal"
+    6: "Chaos"
+
+  finder:
+    trackersIn: 'Trackers in {zone}'
+
+    table:
+      trackerId: 'Tracker ID'
+      zone: 'Zone'
+      instanceId: 'Instance ID'
+      lastUpdated: 'Last Updated'
+      timeActive: 'Time Active'
+      nmsPopped: 'NMs Popped'
+
+    tooltip:
+      nm: '{nm}'
+      nmRespawn: '{nm} (respawns in {time})'

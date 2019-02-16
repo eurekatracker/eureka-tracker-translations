@@ -1,0 +1,87 @@
+tracker:
+  trackerId: "트래커 ID"
+  instance: "인스턴스"
+  pw: "비번"
+  copyToClipboard: "클립보드 복사"
+  level: "Lv"
+  notoriousMonster: "마물"
+  spawnedBy: "소환 조건"
+  position: "위치"
+  popped: "등장"
+  respawn: "리스폰"
+  gales: "폭풍"
+  weather: "날씨"
+  night: "밤"
+  nextGalesIn: "다음 폭풍까지"
+  nextSpecialWeatherIn: "다음 {weather}까지"
+  galesIn: "폭풍 동안"
+  specialWeatherIn: "{weather} 동안"
+  nightIn: "밤 동안"
+  nightBeginsIn: "밤이 오기까지"
+  nightEndsIn: "밤이 끝나기까지"
+  askingForPazuzu: "{viewers}명 보는 중"
+  resetAllWarning: "경고: 모든 마물 등장시간이 초기화 됩니다. 진짜 실행할까요?"
+  exportTracker: "트래커 내보내기"
+  enterPassword: "비밀번호 입력"
+  dataCenter: "데이터 센터"
+  instanceId: "인스턴스 ID"
+
+  timeDialog:
+    timeAgo: "시간 경과"
+    localTime: "로컬 시간"
+    hourShort: "시간"
+    minuteShort: "분"
+    secondShort: "초"
+    minutesAgo: "{count}분 전"
+    hoursAgo: "{count}시간"
+
+  button:
+    pop: "등장"
+    reset: "초기화"
+    resetAll: "모두 초기화"
+
+  tooltips:
+    copied: "복사 완료!"
+    copyTrackerId: "트래커 ID"
+    copyTrackerUrl: "트래커 URL"
+    copyTrackerPassword: "트래커 비밀번호"
+    copyKilledNm: "토벌한 마물"
+    copySoonNm: "곧 소환 가능한 마물"
+    copyAvailNm: "소환 가능한 마물"
+    copyTimeToWeather: "다음 {weather} 시간"
+    copyTimeToNight: "밤 주기"
+    isBossUp: '"{boss} 등장했니??"'
+    spamItAll: "전체 복사"
+    exportToLocalTracker: "로컬 트래커로 내보내기"
+    exportToNewTracker: "공유 트래커로 내보내기"
+    enterTrackerPassword: "트래커 비밀번호 입력"
+    setInstanceInformation: "인스턴스 데이터 수정"
+    dataCenterInfo: "데이터 센터를 입력하면 이 트래커를 검색할 수 있습니다. 필요하다면 인스턴스 ID는 외부 툴로 얻을 수 있습니다."
+    prepped: "마물 소환 준비:<br>소환 조건 몹 {count}마리 사냥"
+
+  clipboard:
+    specialWeatherInTime: "{weather} 동안 {time}"
+    listSeparator: " \u2192 "
+    onCooldown: "토벌한 마물: {list}"
+    respawningSoon: "곧 리스폰될 마물: {list}"
+    openNow: "소환 가능한 마물: {list}"
+    nmAvailable: "{nm} (등장)"
+    nmRespawn: "{nm} ({respawn})"
+    listNone: "없음"
+    weatherCurrent: "\u2605 현재 날씨는 {weather}! 다음 {weather} 날씨: {time} LT 후"
+    weatherNext: "\u2605 다음 {weather} 날씨: {time} LT 후"
+    nightEnds: "\u2605 {time} LT 후 밤이 끝"
+    nightBegins: "\u2605 {time} LT 후 밤이 시작"
+    boss:
+      available: '\u2605 "{boss} 등장 했니?" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
+      availableWeather: '\u2605 "{boss} 등장 했니?" \uE089\uE075\uE083, 하지만... ( ; \u0434 ; ) >>> {weatherTime} LT 후 {weather}'
+      dead: '\u2605 "{boss} 등장 했니?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> {time} LT 후 등장'
+      deadWeather: '\u2605 "{boss} 등장 했니?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> {time} 후 등장, {weatherTime} LT 후 {weather}'
+    spamItAll:
+      text: "\u2605 트래커: {url} \u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 모든 시간은 로컬시간 \u2605"
+      localTrackerText: "\u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 모든 시간은 로컬시간 \u2605"
+      weatherNext: "{weather} 날씨는 {time} 후"
+      weatherCurrent: "{endTime} 후 {weather} 끝  -- {time} 후 다음 {weather}"
+      weatherSeparator: " \u2605 "
+      nightEnds: "밤이 끝나기까지 {time}"
+      nightBegins: "밤이 오기까지 {time}"

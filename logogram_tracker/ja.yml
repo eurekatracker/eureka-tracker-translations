@@ -1,0 +1,41 @@
+logogram_tracker:
+  reset_actions_warning: |-
+    警告: 全てのロゴスアクションを解除します。続けますか？
+
+  reset_count_warning: |-
+    警告: シャードの保有数を0にします。続けますか？
+
+  consume_mnemes: |-
+    習得、アクションの抽出をするには次の記憶を使用します。
+
+  titles:
+    logos_actions: "ロゴスアクション"
+    mnemes: "記憶"
+    filters: "フィルター"
+
+  actions:
+    reset: "リセット"
+    click_to_extract: "アクションをクリックで習得または解除"
+
+  filter:
+    "by_logogram": "シャード別"
+    "by_type": "タイプ別"
+    "default": "デフォルト"
+
+  action_filters:
+    logic:
+      or: "or"
+      and: "and"
+    select:
+      all: "全て"
+      none: "なし"
+    categories:
+      jobs: "ジョブ"
+      attributes: "属性"
+
+  logograms: "ロゴスアクション"
+
+  need: |-
+    <span class="highlight">{count}</span><span class="need">個必要</span>
+
+  combinations: "組み合わせ"

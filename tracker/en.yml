@@ -1,0 +1,95 @@
+tracker:
+  trackerId: 'tracker id'
+  instance: 'instance'
+  pw: 'pw'
+  copyToClipboard: 'copy to clipboard'
+  level: 'Lvl'
+  notoriousMonster: 'NM'
+  spawnedBy: 'Spawned By'
+  position: 'POS'
+  popped: 'Popped'
+  respawn: 'Respawn'
+  gales: 'Gales'
+  weather: 'Weather'
+  night: 'Night'
+  nextGalesIn: 'next gales in'
+  nextSpecialWeatherIn: 'next {weather} in'
+  galesIn: 'gales in'
+  specialWeatherIn: '{weather} in'
+  nightIn: 'night in'
+  nightBeginsIn: 'night begins in'
+  nightEndsIn: 'night ends in'
+  askingForPazuzu: '{viewers} watching'
+  resetAllWarning: 'Warning: This will reset the pop time for all NMs. Are you sure?'
+  exportTracker: 'export tracker'
+  enterPassword: 'enter password'
+  dataCenter: 'Data Center'
+  instanceId: 'Instance ID'
+
+  timeDialog:
+    timeAgo: 'time ago'
+    localTime: 'local time'
+    hourShort: 'hr'
+    minuteShort: 'min'
+    secondShort: 'sec'
+    minutesAgo: |-
+      {count} {count, plural,
+        one {minute}
+        other {minutes}
+      } ago
+    hoursAgo: |-
+      {count} {count, plural,
+        one {hour}
+        other {hours}
+      }
+
+  button:
+    pop: 'Pop'
+    reset: 'Reset'
+    resetAll: 'Reset All'
+
+  tooltips:
+    copied: 'copied!'
+    copyTrackerId: 'tracker id'
+    copyTrackerUrl: 'tracker URL'
+    copyTrackerPassword: 'tracker password'
+    copyKilledNm: 'killed NMs'
+    copySoonNm: 'soon to be available NMs'
+    copyAvailNm: 'available NMs'
+    copyTimeToWeather: 'time to next {weather}'
+    copyTimeToNight: 'night cycle'
+    isBossUp: '"Is {boss} Up??"'
+    spamItAll: 'spam it all'
+    exportToLocalTracker: 'export to local tracker'
+    exportToNewTracker: 'export to shared tracker'
+    enterTrackerPassword: 'enter tracker password'
+    setInstanceInformation: 'edit instance data'
+    dataCenterInfo: 'Inputting an instance data center will allow this tracker to be searchable. Instance ids can be obtained using third-party tools, if desired.'
+    prepped: 'NM prepped'
+
+  clipboard:
+    specialWeatherInTime: '{weather} in {time}'
+    listSeparator: ' \u2192 '
+    onCooldown: 'NMs on cooldown: {list}'
+    respawningSoon: 'NMs respawning soon: {list}'
+    openNow: 'NMs whose windows are open: {list}'
+    nmAvailable: '{nm} (up)'
+    nmRespawn: '{nm} ({respawn})'
+    listNone: 'none'
+    weatherCurrent: '\u2605 Current weather is {weather}! Next {weather} weather in: {time} LT'
+    weatherNext: '\u2605 Next {weather} weather in: {time} LT'
+    nightEnds: '\u2605 Night ends in {time} LT'
+    nightBegins: '\u2605 Night begins in {time} LT'
+    boss:
+      available: '\u2605 "Is {boss} up?" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
+      availableWeather: '\u2605 "Is {boss} up?" \uE089\uE075\uE083, but... ( ; \u0434 ; ) >>> {weather} in {weatherTime} LT'
+      dead: '\u2605 "Is {boss} up?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Up in {time} LT'
+      deadWeather: '\u2605 "Is {boss} up?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Up in {time}, {weather} in {weatherTime} LT'
+    spamItAll:
+      text: '\u2605 Tracker: {url} \u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 All times are local \u2605'
+      localTrackerText: '\u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 All times are local \u2605'
+      weatherNext: '{weather} weather in {time}'
+      weatherCurrent: '{weather} ends in {endTime} -- Next {weather} in {time}'
+      weatherSeparator: ' \u2605 '
+      nightEnds: 'Night ends in {time}'
+      nightBegins: 'Night begins in {time}'
