@@ -33,7 +33,7 @@ logogram_tracker:
       jobs: "Jobs"
       attributes: "Attribute"
 
-  logograms: Logos-SPlitter
+  logograms: Logos-Splitter
 
   need: |-
     <span class="need">need</span> <span class="highlight">{count}</span>

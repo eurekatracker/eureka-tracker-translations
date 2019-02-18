@@ -16,7 +16,7 @@ data_center:
       instanceId: 'Instanz ID'
       lastUpdated: 'Letztes Update'
       timeActive: 'Aktive Zeit'
-      nmsPopped: 'NMs Popped'
+      nmsPopped: 'Gepoppte NMs'
 
     tooltip:
       nm: '{nm}'
