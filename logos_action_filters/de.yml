@@ -14,8 +14,8 @@ logos_action_filters:
   10: "acc"
 
   11: "def"
-  12: "phsischer def"
-  13: "magischer def"
+  12: "phsische def"
+  13: "magische def"
   14: "eva"
 
   15: "lp"
@@ -34,7 +34,7 @@ logos_action_filters:
 
   26: "Bewegungsgeschwindigkeit"
   27: "Reittiergeschwindigkeit"
-  28: "recast speed"
+  28: "Reaktivierungsgeschwindigkeit"
 
   29: "ko"
   30: "Wiederbeleben"
