@@ -1,0 +1,41 @@
+logogram_tracker:
+  reset_actions_warning: |-
+    Warnung: Dies setzt alle gelernten Logos-Kommandos zurück. Fortfahren?
+
+  reset_count_warning: |-
+    Warnung: Dies setzt die Zahl der erhaltenen Logos auf 0. Fortfahren?
+
+  consume_mnemes: |-
+    Verbrauche die unten stehenden Mnemen, wenn Kommandos gelernt oder extrahiert werden
+
+  titles:
+    logos_actions: "Logos-Kommandos"
+    mnemes: "Mnemen"
+    filters: "Filter"
+
+  actions:
+    reset: "reset"
+    click_to_extract: "Klicke auf das Kommando zum Lernen oder Extrahieren"
+
+  filter:
+    "by_logogram": "nach Logos-Splitter"
+    "by_type": "nach Typ"
+    "default": "default"
+
+  action_filters:
+    logic:
+      or: "oder"
+      and: "und"
+    select:
+      all: "alle"
+      none: "keine"
+    categories:
+      jobs: "Jobs"
+      attributes: "Attribute"
+
+  logograms: Logos-SPlitter
+
+  need: |-
+    <span class="need">need</span> <span class="highlight">{count}</span>
+
+  combinations: Kombinationen

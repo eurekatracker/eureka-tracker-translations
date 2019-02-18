@@ -1,0 +1,6 @@
+time:
+  abbr:
+    hours: "{hours}h"
+    minutes: "{minutes}m"
+    seconds: "{seconds}s"
+    hours_minutes: "{hours}h {minutes}m"

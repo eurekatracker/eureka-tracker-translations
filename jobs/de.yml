@@ -1,0 +1,16 @@
+jobs:
+  ast: AST
+  blm: SMA
+  brd: BRD
+  drg: DKR
+  drk: DRK
+  mch: MCH
+  mnk: MÖN
+  nin: NIN
+  pld: PLD
+  rdm: RMA
+  sam: SAM
+  sch: GLT
+  smn: BSW
+  war: KRG
+  whm: WMA

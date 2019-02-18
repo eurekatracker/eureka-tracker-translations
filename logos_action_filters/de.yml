@@ -1,0 +1,42 @@
+logos_action_filters:
+  # jobs
+  1: "Tank"
+  2: "Heiler"
+  3: "Nahkampf-Angreifer"
+  4: "Physischer Fernkampf-Angreifer"
+  5: "Magischer Fernkampf-Angreifer"
+
+  # attributes
+  6: "dmg"
+  7: "physischer dmg"
+  8: "magischer dmg"
+  9: "ranged dmg"
+  10: "acc"
+
+  11: "def"
+  12: "phsischer def"
+  13: "magischer def"
+  14: "eva"
+
+  15: "lp"
+  16: "mp"
+  17: "tp"
+  18: "max lp"
+  19: "max mp"
+
+  20: "buff"
+  21: "debuff"
+
+  22: "Gift"
+  23: "Paralyse"
+  24: "Betäubung"
+  25: "Verlangsamung"
+
+  26: "Bewegungsgeschwindigkeit"
+  27: "Reittiergeschwindigkeit"
+  28: "recast speed"
+
+  29: "ko"
+  30: "Wiederbeleben"
+  31: "Feindseligkeit"
+  32: "aoe"
