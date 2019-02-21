@@ -1,0 +1,12 @@
+weather:
+  Gales: 'Stürmisch'
+  "Fair Skies": 'Heiter'
+  Showers: 'Wolkenbruch'
+  Snow: 'Schnee'
+  Blizzards: 'Schneesturm'
+  Thunder: 'Gewittrig'
+  "Heat Waves": 'Gluthitze'
+  Fog: 'Neblig'
+  "Umbral Wind": 'Schattenwind'
+  Gloom: "Unheimlich"
+  Thunderstorms: "Gewitter"
