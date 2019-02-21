@@ -52,8 +52,8 @@ logos_action:
     50: Logos-Adlerauge
     51: Logos-Tigeraugen
     52: Vermächtnis des Weisen
-    53: Vermächtnis des Dualist
-    54: Vermächtnis des Fiendhunter
+    53: Vermächtnis des Fechtmeisters
+    54: Vermächtnis des Bogengeweihten
     55: Vermächtnis des Helden
     56: Logos-Aufopferung
 
@@ -236,12 +236,12 @@ logos_action:
       Effekt endet bei erneuter Ausführung oder wenn ein anderes Vermächtnis aktiviert wird.
 
     53: |-
-      Du erhöhst deinen ausgeteilten physischen Schaden und deine maximalen HP um 15%, zusätzlich werden die TP-Kosten von Waffenfertigkeiten reduziert.<br>
+      Du erhöhst deinen ausgeteilten physischen Schaden um 40% und deine maximalen HP werden um 15% erhöht. Außerdem ist der TP-Verbrauch von Waffenfertigkeiten verringert.<br>
       Kann nicht zusammen mit anderen Vermächtnisfähigkeiten eingesetzt werden.<br>
       Effekt endet bei erneuter Ausführung oder wenn ein anderes Vermächtnis aktiviert wird.
 
     54: |-
-      Du erhöhst deinen physischen Schaden um 25% und deine Ausweichrate um 25%.<br>
+      Du erhöhst deinen ausgeteilten physischen Schaden um 25% und deine Ausweichrate wird um 25% erhöht.<br>
       Kann nicht zusammen mit anderen Vermächtnisfähigkeiten eingesetzt werden.<br>
       Effekt endet bei erneuter Ausführung oder wenn ein anderes Vermächtnis aktiviert wird.
 

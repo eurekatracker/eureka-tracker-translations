@@ -35,8 +35,8 @@ tracker:
     minutesAgo: |-
       {count} {count, plural,
         one {Minute}
-        other {Minuten}
-      } 
+        other {Minuten} 
+      } zuvor
     hoursAgo: |-
       {count} {count, plural,
         one {Stunde}
