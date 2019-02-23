@@ -1,0 +1,60 @@
+logogram_acquisitions:
+  "chain-30": "Erfolgssträhne 30"
+  "coffer-bronze": "Bronzene Schatztruhe"
+  "coffer-gold": "Goldene Schatztruhe"
+  "coffer-silver": "Silberne Schatztruhe"
+  "heatbox": "Feuerversengte Schließkassetten"
+  "sprite-conceptual": "Gleich- oder höhergelevelte Exergone"
+  "sprite-fundamental": "Lv. 41 Gewitter-Exergon"
+  "sprite-mitigative": "Lv. 46 Gewitter-Exergon"
+  "undead-adaptation": "Untoten-Absorption"
+
+  "sprite-adaptation-inimical": |-
+    <ul>
+      <li>Lv. 52 Snowstorm Sprite Absorption</li>
+      <li>Lv. 54 Gewitter-Exergon Absorption</li>
+      <li>Lv. 55 Taifun-Exergon Absorption</li>
+    </ul>
+
+  "sprite-adaptation-mitigative": |-
+    <ul>
+      <li>Lv. 43 Asche-Exergon Absorption</li>
+      <li>Lv. 46 Gewitter-Exergon Absorption</li>
+    </ul>
+
+  "NM-curative": |-
+    <ul>
+      <li>Leukosia</li>
+      <li>Graffiacane</li>
+      <li>Aetolus</li>
+      <li>Iris</li>
+      <li>Holzfäller</li>
+      <li>Penthesilea</li>
+    </ul>
+
+  "NM-inimical": |-
+    <ul>
+      <li>Der Sophist</li>
+      <li>Großherzog Batym</li>
+      <li>Eldthurs</li>
+      <li>Dux</li>
+      <li>Yin-Yang</li>
+    </ul>
+
+  "NM-protective": |-
+    <ul>
+      <li>Flauros</li>
+      <li>Askalaphos</li>
+      <li>Lesath</li>
+      <li>Wüterix-Söldner</li>
+      <li>Glaukopis</li>
+      <li>Skalli</li>
+    </ul>
+
+  "NM-obscure": |-
+    <ul>
+      <li>Kalamari</li>
+      <li>Stegodon</li>
+      <li>Molek</li>
+      <li>+NM Futter</li>
+    </ul>

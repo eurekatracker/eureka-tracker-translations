@@ -1,52 +1,52 @@
 tracker:
   trackerId: 'Tracker id'
-  instance: 'Instance'
+  instance: 'Instanz'
   pw: 'pw'
-  copyToClipboard: 'In die Zwischenablage kopieren'
+  copyToClipboard: 'In die Zwischenablage'
   level: 'Lvl'
   notoriousMonster: 'NM'
-  spawnedBy: 'Gespawnt durch'
+  spawnedBy: 'Ausgelöst durch'
   position: 'POS'
-  popped: 'Gepoppt'
-  respawn: 'Respawn'
-  gales: 'Gales'
+  popped: 'Ausgelöst'
+  respawn: 'Nächstes Mal'
+  gales: 'Stürmisch'
   weather: 'Wetter'
   night: 'Nacht'
-  nextGalesIn: 'next gales in'
-  nextSpecialWeatherIn: 'Nächstes/r {weather} in'
-  galesIn: 'gales in'
+  nextGalesIn: 'Nächstes Stürmisch in'
+  nextSpecialWeatherIn: 'Nächste/s/r {weather} in'
+  galesIn: 'Stürmisch in'
   specialWeatherIn: '{weather} in'
   nightIn: 'Nacht in'
   nightBeginsIn: 'Nacht beginnt in'
   nightEndsIn: 'Nacht endet in'
   askingForPazuzu: '{viewers} schauen zu'
   resetAllWarning: 'Warnung: Dies setzt die Pop-Zeit für alle NMs zurück. Bist du dir sicher?'
-  exportTracker: 'Tracker exportieren'
+  exportTracker: 'Tracker-Kopie anlegen'
   enterPassword: 'Passwort eingeben'
   dataCenter: 'Datenzentrum'
-  instanceId: 'Instanz ID'
+  instanceId: 'Instanz-ID'
 
   timeDialog:
-    timeAgo: 'Vergangene Zeit'
+    timeAgo: 'Da seit'
     localTime: 'Lokale Zeit'
-    hourShort: 'hr'
+    hourShort: 'h'
     minuteShort: 'min'
     secondShort: 'sek'
     minutesAgo: |-
       {count} {count, plural,
-        one {minute}
-        other {minutes}
-      } ago
+        one {Minute}
+        other {Minuten} 
+      } zuvor
     hoursAgo: |-
       {count} {count, plural,
-        one {hour}
-        other {hours}
+        one {Stunde}
+        other {Stunden}
       }
 
   button:
-    pop: 'Pop'
+    pop: 'Ist da'
     reset: 'Reset'
-    resetAll: 'Alles resetten'
+    resetAll: 'Alles neu'
 
   tooltips:
     copied: 'kopiert!'
@@ -58,21 +58,21 @@ tracker:
     copyAvailNm: 'Verfügbare NMs'
     copyTimeToWeather: 'Zeit zum/r nächsten {weather}'
     copyTimeToNight: 'Nachtzyklus'
-    isBossUp: '"Ist {boss} offen??"'
-    spamItAll: 'Spamme alles'
-    exportToLocalTracker: 'Nach einem lokalen Tracker exportieren'
-    exportToNewTracker: 'Nach einem geteilten Tracker exportieren'
+    isBossUp: '"Ist {boss} da??"'
+    spamItAll: 'alles'
+    exportToLocalTracker: 'Lokale Kopie erstellen'
+    exportToNewTracker: 'Geteilte Kopie erstellen'
     enterTrackerPassword: 'Trackerpasswort eingeben'
     setInstanceInformation: 'Instanzdaten bearbeiten'
-    dataCenterInfo: 'Durch diie Eingabe eines Instanzdatenzentrums kann dieser Tracker gesucht werden. Instanz IDs können durch Tools von Drittanbietern erlangt werden.'
-    prepped: 'NM prepped'
+    dataCenterInfo: 'Durch Eingabe eines Datenzentrums wird dieser Tracker öffentlich gelistet. Instanz-IDs können durch Tools von Drittanbietern erlangt werden.'
+    prepped: 'NM vorbereitet'
 
   clipboard:
     specialWeatherInTime: '{weather} in {time}'
     listSeparator: ' \u2192 '
     onCooldown: 'NMs auf cooldown: {list}'
-    respawningSoon: 'NMs, die bald respawnt werden: {list}'
-    openNow: 'NMs, deren Fenster offen sind: {list}'
+    respawningSoon: 'NMs, die bald wieder auftauchen: {list}'
+    openNow: 'NMs, die derzeit möglich sind: {list}'
     nmAvailable: '{nm} (up)'
     nmRespawn: '{nm} ({respawn})'
     listNone: 'keine'
@@ -81,15 +81,16 @@ tracker:
     nightEnds: '\u2605 Nacht endet in {time} LT'
     nightBegins: '\u2605 Nacht beginnt in {time} LT'
     boss:
-      available: '\u2605 "Ist {boss} verfügbar?" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
-      availableWeather: '\u2605 "Ist {boss} verfügbar?" \uE089\uE075\uE083, aber... ( ; \u0434 ; ) >>> {weather} in {weatherTime} LT'
-      dead: '\u2605 "Ist {boss} verfügbar?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Verfügbar in {time} LT'
-      deadWeather: '\u2605 "Ist {boss} verfügbar?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Verfügbar in {time}, {weather} in {weatherTime} LT'
+      available: '\u2605 "Ist {boss} schon da?" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
+      availableWeather: '\u2605 "Ist {boss} schon da?" \uE089\uE075\uE083, aber... ( ; \u0434 ; ) >>> {weather} in {weatherTime} LT'
+      dead: '\u2605 "Ist {boss} schon da?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Erst in {time} LT'
+      deadWeather: '\u2605 "Ist {boss} schon da?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Erst in {time}, {weather} in {weatherTime} LT'
     spamItAll:
       text: '\u2605 Tracker: {url} \u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 Alle Zeiten sind lokal \u2605'
       localTrackerText: '\u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 Alle Zeiten sind \u2605'
       weatherNext: '{weather}-Wetter in {time}'
-      weatherCurrent: '{weather} endet in {endTime} -- Nächstes/r {weather} in {time}'
+      weatherCurrent: '{weather} endet in {endTime} -- Nächste/s/r {weather} in {time}'
       weatherSeparator: ' \u2605 '
       nightEnds: 'Nacht endet in {time}'
       nightBegins: 'Nacht beginnt in {time}'
+      

@@ -52,8 +52,8 @@ logos_action:
     50: Logos-Adlerauge
     51: Logos-Tigeraugen
     52: Vermächtnis des Weisen
-    53: Wisdom of the Dualist
-    54: Wisdom of the Fiendhunter
+    53: Vermächtnis des Fechtmeisters
+    54: Vermächtnis des Bogengeweihten
     55: Vermächtnis des Helden
     56: Logos-Aufopferung
 
@@ -115,40 +115,25 @@ logos_action:
 
     11: |-
       Deine maximalen LP sind um 10% und deine Präzision um 30% erhöht. Außerdem belebst du dich mit einer Wahrscheinlichkeit von 70% bei erlittener Kampfunfähigkeit wieder.<br>
-      Dauer: 180 Minuten
 
-    12: |-
-     Du erhöhst die Verteidigung des Ziels um 1000.<br>
-     Dauer: 30 Minuten
-    13: |-
-     Du erhöhst die Magieabwehr des Ziels um 1000.<br>
-     Dauer: 30 Minuten
+    12: "Du erhöhst die Verteidigung des Ziels um 1000."
+    13: "Du erhöhst die Magieabwehr des Ziels um 1000"
     14: "Du machst das Ziel kampfunfähig. Je niedriger die LP des Ziels, desto größer die Erfolgschance."
 
     15: |-
       Du versiehst dich mit Starksammeln. Der Effekt kann bis zu 16 Mal gestapelt werden.<br>
       Effekt von Starksammeln: Erhöht den Attacke-Wert der nächsten Waffenfertigkeit pro Stapel um 30%<br>
-      Dauer: 30 Sekunden<br>
       Gemeinsamer Reaktivierungs-Timer mit allen anderen Waffenfertigkeiten.
 
-    16: |-
-     Du fügst dem Ziel Paralyse zu.<br>
-     Dauer: 60 Sekunden
-    17: |-
-     Du fügst dem Ziel und allen umstehenden Gegnern Paralyse zu.<br>
-     Dauer: 60 Sekunden
-    18: |-
-     Du erhöhst deine Bewegungsgeschwindigkeit beträchtlich.<br>
-     Dauer: 10 Sekunden
-    19: |-
-     Du erhöhst deine Ausweichrate um 15%.<br>
-     Dauer: 45 Sekunden
+    16: "Du fügst dem Ziel Paralyse zu"
+    17: "Du fügst dem Ziel und allen umstehenden Gegnern Paralyse zu."
+    18: "Du erhöhst deine Bewegungsgeschwindigkeit beträchtlich."
+    19: "Du erhöhst deine Ausweichrate um 15%."
 
     20: |-
       Du führst eine physische Fernkampfattacke aus.<br>
       Attacke-Wert: 100<br>
-      Zusatzeffekt: Erhöht den erlittenen Schaden des Ziels um 8%.<br>
-      Dauer: 60 Sekunden
+      Zusatzeffekt: Erhöht den erlittenen Schaden des Ziels um 8%.
 
     21: |-
      Du führst eine magische Attacke auf alle umstehenden Gegner aus.<br>
@@ -159,7 +144,6 @@ logos_action:
       Du führst eine physische Attacke aus.<br>
       Attacke-Wert:100<br>
       Zusatzeffekt: Verringert die Ausweichrate des Ziels<br>
-      Dauer: 60 Sekunden
 
     24: |-
       Du verbirgst dich vor den Blicken der meisten Gegner, verlangsamst aber deine Bewegungsgeschwindigkeit um 50%.<br>
@@ -175,24 +159,17 @@ logos_action:
       Du springst 10 Yalme von deiner aktuellen Position zurück.<br>
       Kann nicht während Fessel ausgeführt werden.
 
-    27: |-
-     Du fügst dem Ziel Betäubung zu.<br>
-     Dauer: 8 Sekunden
-    28: |-
-     Du wandelst einen Teil deines ausgeteilten Schadens im LP um.<br>
-     Dauer: 45 Sekunden
+    27: "Du fügst dem Ziel Betäubung zu."
+    28: "Du wandelst einen Teil deines ausgeteilten Schadens im LP um."
     29: "Du regenerierst augenblicklich 500 TP und 50% deiner maximalen MP."
 
     30: |-
       Du führst eine physische Attacke aus.<br>
       Attacke-Wert 300<br>
       Zusatzeffekt: Gegner wird um 20% verlangsamt.<br>
-      Bedingung: Nur direkt nach erfolgreichem Ausweichen<br>
-      Dauer: 30 Sekunden
+      Bedingung: Nur direkt nach erfolgreichem Ausweichen
 
-    31: |-
-     Du halbierst die Reaktivierungszeit des nächsten ausgeführten Talents.<br>
-     Dauer: 15 Sekunden
+    31: "Du halbierst die Reaktivierungszeit des nächsten ausgeführten Talents."
 
     32: |-
       Du regenerierst LP des Ziels.<br>
@@ -202,9 +179,7 @@ logos_action:
       Du regenerierst LP des Ziels.<br>
       Heilpotenzial: 12000
 
-    34: |- 
-     Du errichtest eine Barriere um das Ziel, die insgesamt 10 der Maximal-LP des Ziels absorbiert.<br>
-     Dauer: 30 Sekunden
+    34: "Du errichtest eine Barriere um das Ziel, die insgesamt 10 der Maximal-LP des Ziels absorbiert."
 
     35: |-
       Du regenerierst LP des Ziels und aller umstehenden Gruppenmitglieder.<br>
@@ -212,26 +187,17 @@ logos_action:
 
     36: |-
       du regenerierst stetig LP des Ziels.<br>
-      Heilpotenzial: 2500<br>
-      Dauer: 21 Sekunden
+      Heilpotenzial: 2500
 
     37: "Du entfernst einen negativen Status vom anvisierten Ziel."
     38: |-
      Du lenkst die größte Feindseligkeit auf dich und erhöhst kurzzeitig die Feindseligkeit der Gegner gegen dich.<br>
      Dauer: 15 Sekunden
     39: "Du belebst das Ziel wieder, wonach es für gewisse Zeit unter Schwäche leidet."
-    40: |-
-     Du erhöhst den ausgeteilten Schaden des Ziels um 10%.<br>
-     Dauer:300 Sekunden
-    41: |-
-     Du verringerst den Schaden, den du durch physische Angriffe erleidest, um 99%.<br>
-     Dauer: 8 Sekunden
-    42: |-
-     Du verringerst den Schaden, den du durch magische Angriffe erleidest, um 99%.<br>
-     Dauer: 8 Sekunden
-    43: |-
-     Du errichtest eine Barriere um dich oder ein anderes Gruppenmitglied, die jedwede Magie reflektiert.<br>
-     Dauer: 10 Sekunden
+    40: "Du erhöhst den ausgeteilten Schaden des Ziels um 10%."
+    41: "Du verringerst den Schaden, den du durch physische Angriffe erleidest, um 99%."
+    42: "Du verringerst den Schaden, den du durch magische Angriffe erleidest, um 99%."
+    43: "Du errichtest eine Barriere um dich oder ein anderes Gruppenmitglied, die jedwede Magie reflektiert."
 
     44: |-
       Du führt eine physische Attacke aus.<br>
@@ -239,29 +205,22 @@ logos_action:
       Zusatzeffekt: Du wandelst einen Teil deines ausgeteilten Schadens in LP um.<br>
       Bedingung: Die eigenen LP betragen 50% oder weniger.
 
-    45: |-
-     Erhöht die Magia-Ätherregeneration von dir und umstehenden Gruppenmitgliedern.<br>
-     Dauer: 30 Sekunden
+    45: "Erhöht die Magia-Ätherregeneration von dir und umstehenden Gruppenmitgliedern."
 
     46: |-
       Du führst eine elementneutrale magische Attacke aus.<br>
       Attacke-Wert: 200<br>
-      Zusatzeffekt: Erhöht den erlittenen Schaden untoter Gegner um 25%.<br>
-      Dauer: 60 Sekunden
+      Zusatzeffekt: Erhöht den erlittenen Schaden untoter Gegner um 25%.
 
     47: |-
       Du führst eine elementneutrale magische Attacke auf das Ziel und umstehende Gegner aus.<br>
       Attacke-Wert: 150<br>
-      Zusatzeffekt: Erhöht den erlittenen Schaden untoter Gegner um 25%.<br>
-      Dauer: 60 Sekunden
+      Zusatzeffekt: Erhöht den erlittenen Schaden untoter Gegner um 25%.
 
-    48: |-
-      Du verdoppelst den Schaden magischer Attacken im Austausch für erhöhten MP-Verbrauch.<br>
-      Dauer: 20 Sekunden
+    48: "Du verdoppelst den Schaden magischer Attacken im Austausch für erhöhten MP-Verbrauch."
 
     49: |-
-      Du erhöhst deinen ausgeteilten physischen Schaden alle 3 Sekunden um 15%, während deine LP jeweils um 1200 LP mehr sinken. Der Effekt ist bis zu 16 Einheiten stapelbar.<br>
-      Dauer: 48 Sekunden
+      Du erhöhst deinen ausgeteilten physischen Schaden alle 3 Sekunden um 15%, während deine LP jeweils um 1200 LP mehr sinken. Der Effekt ist bis zu 16 Einheiten stapelbar.
 
     50: |-
       Du führst eine physische Fernkampfattacke aus.<br>
@@ -277,12 +236,12 @@ logos_action:
       Effekt endet bei erneuter Ausführung oder wenn ein anderes Vermächtnis aktiviert wird.
 
     53: |-
-      Increases physical damage dealt by 40% and maximum HP by 15%, while decreasing weaponskill TP cost.<br>
+      Du erhöhst deinen ausgeteilten physischen Schaden um 40% und deine maximalen HP werden um 15% erhöht. Außerdem ist der TP-Verbrauch von Waffenfertigkeiten verringert.<br>
       Kann nicht zusammen mit anderen Vermächtnisfähigkeiten eingesetzt werden.<br>
       Effekt endet bei erneuter Ausführung oder wenn ein anderes Vermächtnis aktiviert wird.
 
     54: |-
-      Increases physical damage dealt by 25% and evasion by 25%.<br>
+      Du erhöhst deinen ausgeteilten physischen Schaden um 25% und deine Ausweichrate wird um 25% erhöht.<br>
       Kann nicht zusammen mit anderen Vermächtnisfähigkeiten eingesetzt werden.<br>
       Effekt endet bei erneuter Ausführung oder wenn ein anderes Vermächtnis aktiviert wird.
 
@@ -295,5 +254,4 @@ logos_action:
     56: |-
       Du regenerierst alle LP des Ziels und belebst es wieder.<br>
       Zusatzeffekt: Du erhälst den Status Verhängnis.<br>
-      Dauer: 10 Sekunden<br>
       Bedingung: Verhängnis nicht aktiv.

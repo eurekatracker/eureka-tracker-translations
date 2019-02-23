@@ -36,6 +36,6 @@ logogram_tracker:
   logograms: Logos-Splitter
 
   need: |-
-    <span class="need">need</span> <span class="highlight">{count}</span>
+    <span class="need">benötigt</span> <span class="highlight">{count}</span>
 
   combinations: Kombinationen
