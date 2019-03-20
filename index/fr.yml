@@ -1,0 +1,15 @@
+index:
+  trackerId: 'ID du tracker'
+  enter: 'Entrer'
+  createNewTracker: 'Nouveau tracker {zone}'
+  useLocalTracker: 'Tracker local'
+  creatingInstance: 'Chargement...'
+  findTrackers: 'Chercher des trackers'
+
+  messages:
+    noLongerAvailable: "Le tracker {id} n'est plus disponible suite à inactivité"
+    serverError: 'Une erreur est apparue en traitant votre requête, veuillez réessayer'
+    notFound: "Le tracker que vous recherchez n'existe pas"
+
+  tooltips:
+    detailedMap: '{zone} Carte détaillée'

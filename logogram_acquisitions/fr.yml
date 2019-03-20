@@ -1,0 +1,60 @@
+logogram_acquisitions:
+  "chain-30": "Chaine de 30"
+  "coffer-bronze": "Coffre en Bronze"
+  "coffer-gold": "Coffre en Or"
+  "coffer-silver": "Coffre en Argent"
+  "heatbox": "Coffre roussi"
+  "sprite-conceptual": "Elementaire de niveau égal ou superieur"
+  "sprite-fundamental": "Niv. 41 Elémentaire des tempêtes de foudre"
+  "sprite-mitigative": "Niv. 46 Elémentaire des tempêtes de foudre"
+  "undead-adaptation": "Adaptation de Mort-Vivant"
+
+  "sprite-adaptation-inimical": |-
+    <ul>
+      <li>Niv. 52 Elémentaire des tempêtes de neige adapté</li>
+      <li>Niv. 54 Elémentaire des tempêtes de foudre adapté</li>
+      <li>Niv. 55 Elémentaire de tempête</li>
+    </ul>
+
+  "sprite-adaptation-mitigative": |-
+    <ul>
+      <li>Niv. 43 Elémentaire d'ambre adapté</li>
+      <li>Niv. 46 Elémentaire de tempête de foudre adapté</li>
+    </ul>
+
+  "NM-curative": |-
+    <ul>
+      <li>Leucosia</li>
+      <li>Graffiacane</li>
+      <li>Aetolus</li>
+      <li>Iris</li>
+      <li>Jack le Bucheron</li>
+      <li>Penthesilée</li>
+    </ul>
+
+  "NM-inimical": |-
+    <ul>
+      <li>Le Sophiste</li>
+      <li>Grand Duc Batym</li>
+      <li>Eldthurs</li>
+      <li>Dux</li>
+      <li>Ying-Yang</li>
+    </ul>
+
+  "NM-protective": |-
+    <ul>
+      <li>Flauros</li>
+      <li>Askalaphos</li>
+      <li>Lesath</li>
+      <li>Lamebrix le Mercenaire</li>
+      <li>Glaukopis</li>
+      <li>Skoll</li>
+    </ul>
+
+  "NM-obscure": |-
+    <ul>
+      <li>Khalamari</li>
+      <li>Stegodon</li>
+      <li>Molech</li>
+      <li>+NM Fodder</li>
+    </ul>

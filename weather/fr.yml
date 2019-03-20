@@ -1,0 +1,12 @@
+weather:
+  Gales: "Vents violents"
+  "Fair Skies": "Clair"
+  Showers: "Pluie"
+  Snow: "Neige"
+  Blizzards: "Blizzard"
+  Thunder: "Orage"
+  "Heat Waves": "Torride"
+  Fog: "Brouillard"
+  "Umbral Wind": "Vent ombral"
+  Gloom: "Nébuleux"
+  Thunderstorms: "Orages violents"

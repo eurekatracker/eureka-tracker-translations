@@ -1,0 +1,41 @@
+logogram_tracker:
+  reset_actions_warning: |-
+    Attention : ceci enlèvera toutes les actions apprises. Continuer ?
+
+  reset_count_warning: |-
+    Attention : ceci remettra tous les logos acquis à 0. Continuer ?
+
+  consume_mnemes: |-
+    Consommer les éclats Logos ci-dessous en apprenant ou fabriquant des actions.
+
+  titles:
+    logos_actions: "Actions Logos"
+    mnemes: "Eclats Logos"
+    filters: "Filtres"
+
+  actions:
+    reset: "remettre à zéro"
+    click_to_extract: "Cliquer l'action pour l'apprendre ou la créer."
+
+  filter:
+    "by_logogram": "par logograme"
+    "by_type": "par type"
+    "default": "par defaut"
+
+  action_filters:
+    logic:
+      or: "ou"
+      and: "et"
+    select:
+      all: "tous"
+      none: "aucun"
+    categories:
+      jobs: "jobs"
+      attributes: "attributs"
+
+  logograms: Logograms
+
+  need: |-
+    <span class="need">Besoin de</span> <span class="highlight">{count}</span>
+
+  combinations: Combinaisons

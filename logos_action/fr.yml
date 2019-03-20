@@ -1,0 +1,239 @@
+logos_action:
+  name:
+    1: Mémoire d'un prêtre guerrier
+    2: Mémoire d'un protecteur intrépide
+    3: Mémoire d'un soldat cuirassé
+    4: Mémoire d'un gardien
+    5: Mémoire d'un prêtre
+    6: Mémoire d’un combattant
+    7: Mémoire d'un éclaireur
+    8: Mémoire d'un chevalier sacré
+    9: Mémoire d'un guerrier enragé
+    10: Mémoire d'un voleur
+    11: Égide des héros vaillants
+    12: "Évocation Logos : Bouclier"
+    13: "Évocation Logos : Barrière"
+    14: "Évocation Logos : Mort"
+    15: "Évocation Logos : Focalisation"
+    16: "Évocation Logos : Paralysie"
+    17: "Évocation Logos : Méga Paralysie"
+    18: "Évocation Logos : Vélocité"
+    19: "Évocation Logos : Pieds Légers"
+    20: "Évocation Logos : Flèche Spirituelle"
+    21: "Évocation Logos : Catastrophe"
+    22: "Évocation Logos : Dissipation"
+    23: "Évocation Logos : Feinte"
+    24: "Évocation Logos : Furtivité"
+    25: "Évocation Logos : Bond"
+    26: "Évocation Logos : Bond Arrière"
+    27: "Évocation Logos : Tranquilisant"
+    28: "Évocation Logos : Bain de Sang"
+    29: "Évocation Logos : Restauration"
+    30: "Évocation Logos : Haymaker"
+    31: "Évocation Logos : Recharge Rapide"
+    32: "Évocation Logos : Soin"
+    33: "Évocation Logos : Extra Soin"
+    34: "Évocation Logos : Cuirasse"
+    35: "Évocation Logos : Méga Soin"
+    36: "Évocation Logos : Récup"
+    37: "Évocation Logos : Guérison"
+    38: "Évocation Logos : Incitation"
+    39: "Évocation Logos : Vie"
+    40: "Évocation Logos : Bravoure"
+    41: "Évocation Logos : Protection Physique"
+    42: "Évocation Logos : Protection Magique"
+    43: "Évocation Logos : Miroir"
+    44: "Évocation Logos : Châtiment"
+    45: "Évocation Logos : Tonification"
+    46: "Évocation Logos : Bannissement"
+    47: "Évocation Logos : Méga Bannissement"
+    48: "Évocation Logos : Explosion Magique"
+    49: "Évocation Logos : Double Tranchant"
+    50: "Évocation Logos : Œil d'aigle"
+    51: "Évocation Logos : Vision radar"
+    52: Mémoire d'un sage
+    53: Mémoire d'une fine lame
+    54: Mémoire d'un archer émérite
+    55: Mémoire d'un héros illustre
+    56: "Évocation Logos : Sacrifice"
+
+  type:
+    spell: sort
+    ability: aptitude
+    weaponskill: technique d'arme
+
+  description:
+    1: |-
+      Augmente de 60% vos dégâts magiques infligés. <br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    2: |-
+      Augmente de 40% vos dégâts infligés.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    3: |-
+      Augmente de 3000 votre défense et de 50% vos PV maximums.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    4: |-
+      Augmente de 1800 votre défense et de 10% vos PV maximums.<br>
+      L'effet prend fin vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    5: |-
+      Augmente de 50% vos PM maximums et de 25% la puissance de vos sorts curatifs.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    6: |-
+      Augmente de 20% vos dégâts infligé. <br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    7: |-
+      Augmente de 25% votre esquive et réduit vos dégats infligés de 5%.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    8: |-
+      Augmente de 50% la puissance de vos sorts curatifs et de 30% vos PV maximums.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    9: |-
+      Augmente de 30% vos dégâts infligés et réduit de 60% votre défense magique.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    10: |-
+      Augmente de 10% votre esquive, votre vitesse de déplacement à pied et à dos de monture, ainsi que votre résistance au poison.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.
+
+    11: |-
+      Augmente de 10% vos PV maximums et votre précision de 30%. Durée : 180m<br>
+      Octroie 70% de chance d'être automatiquement ranimé après avoir perdu connaissance.<br>
+      Peut s'utiliser conjointement avec les actions de type "Évocation Logos".
+
+    12: "Augmente de 1000 la défense physique de la cible. Durée : 30m"
+    13: "Augmente de 1000 la défense magique de la cible. Durée : 30m"
+    14: "Tente d'achever instantanément la cible. Moins elle a de PV, plus les chances de succès sont élevées."
+
+    15: |-
+      Augmente de 30% la puissance de votre prochaine technique d’arme. Cumulable jusqu’au 16e degré. Durée : 30s<br>
+      BPartage le même temps de recharge que les techniques d’arme.
+
+    16: "Inflige Paralysie à la cible. Durée : 60s"
+    17: "Inflige Paralysie à la cible et aux ennemis autour. Durée : 60s"
+    18: "Augmente grandement votre vitesse de déplacement. Durée : 10s"
+    19: "Augmente de 15% votre esquive. Durée : 45s"
+
+    20: |-
+      Effectue une attaque physique à distance sur la cible. Puissance : 100<br>
+      Effet additionnel : inflige Vulnérabilité augmentée. Durée : 60s<br>
+      Vulnérabilité augmentée : augmente les dégâts subis de 8%
+
+    21: |-
+      Inflige des dégâts magiques aux ennemis alentour. Puissance : 4000
+      Vous subissez d'importants dégâts en contrecoup. Puissance du contrecoup : 999999
+
+    22: "Dissipe un effet bénéfice de la cible."
+
+    23: |-
+      Effectue une attaque physique sur la cible. Puissance : 100<br>
+      Effet additionnel : réduit l'esquive de la cible. Durée : 60s
+
+    24: |-
+      Réduit de 50% votre vitesse de déplacement et dissimule votre présence à la plupart des ennemis.<br>
+      L'effet prend fin en relançant l'action ou lors de l'utilisation d'une autre à part Sprint.<br>
+      Ne peut être utilisé qu'en étant hors combat.
+
+    25: |-
+      Vous amène en un bond au corps à corps avec votre cible.<br>
+      Ne peut pas être utilisé sous l'effet de entrave.
+
+    26: |-
+      Vous fait faire un bond en arrière.<br>
+      Ne peut pas être utilisé sous l'effet Entrave.
+
+    27: "Inflige étourdissement à la cible. Durée : 8s"
+    28: "Convertie une partie des dégâts infligés par vos attaques physiques en PV. Durée : 45s"
+    29: "Restaure 500 de vos PT et 50% de vos PM maximums."
+
+    30: |-
+      Effectue une attaque physique sur la cible. Puissance : 300<br>
+      Effet additionnel : inflige Lenteur 20%. Durée : 30s<br>
+      Condition : après une esquive.
+
+    31: "Réduit de 50% le temps de recharge de la prochaine action lancée. Durée 15s"
+
+    32: "Restaure les points de vie de la cible. Puissance : 9000"
+
+    33: "Restaure les points de vie de la cible. Puissance : 12000"
+
+    34: "Crée sur la cible une barrière absorbant les dégâts pour un total de 10% de ses PV maximums. Durée : 30S"
+
+    35: "Restaure les PV de la cible et des équipiers autour. Puissance : 9000"
+
+    36: |-
+      Restaure périodiquement les PV de la cible. Puissance : 2500<br>
+      Durée : 21s
+
+    37: "Soigne une altération d'état de la cible."
+    38: "Provoque la cible et vous place en tête de sa liste d'inimité. Augmente aussi l'inimité des ennemis alentour envers vous."
+    39: "Ressuscite la cible avec l'effet Affaiblissement."
+    40: "Augmente de 10% les dégâts infligés par la cible. Durée : 300s"
+    41: "Réduit de 99% les dégâts physiques subis. Durée : 8s"
+    42: "Réduit de 99% les dégâts magiques subis. Durée : 8s"
+    43: "Octroie une protection à vous ou à l'équipier ciblé qui renvoie les sorts de magie subis sur leur lanceur. Durée : 10s"
+
+    44: |-
+      Effectue une attaque physique sur la cible. Puissance 1000<br>
+      Effet additionnel : régénère une partie des PV en fonction des dégâts infligés.<br>
+      Condition : vos PV restants sont inférieurs à 50% du maximum.
+
+    45: "Augmente votre régénération de points d'éther Magia et celle de vos équipiers alentour. Durée : 30s "
+
+    46: |-
+      Inflige des dégâts magiques neutres à la cible. Puissance : 200<br>
+      Effet additionnel : dégâts augmentés de 25% sur les morts-vivants. Durée 60s
+
+    47: |-
+      Inflige des dégâts magiques neutres à la cible et aux ennemis autour. Puissance : 150<br>
+      Effet additionnel : dégâts augmentés de 25% sur les morts-vivants. Durée : 60s
+
+    48: "Double les dégâts de vos actions de type magique et augmente les PM qu'elles consomment."
+
+    49: |-
+      Augmente des dégâts physiques que vous infligez, mais vous perdez peu à peu des PV. Durée : 48s<br>
+      L'effet s'accumule toutes les 3 secondes jusqu'à un maximum de 16 fois.<br>
+      Chaque degré d'accumulation augmente les dégâts physiques de 15% et la perte de PV de 1200.
+
+    50: |-
+      Effectue une attaque physique à distance sur la cible. Puissance : 80<br>
+      La puissance augment d'autant plus que les PV restants de la cible sont bas, jusqu'à 10 fois savaleur normale.<br>
+      Cette action génère beaucoup d'inimité envers vous.
+
+    51: |-
+      Révèle les pièges cachés dans un rayon de 15 yalms.<br>
+      Si aucun piège n'est détecté dans un rayon de 15 yalms, vous indique la présence ou non de pièges dans un rayon de 36 yalms.<br>
+      Fonctionne uniquement dans un donjon.
+
+    52: |-
+      Augmente de 30% vos dégats magiques infligés, de 1000 votre défense magique, et réduit le coût en PM de vos sorts de magie.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.<br>
+      Ne peut être utilisé en même temps qu'une autre action de type "mémoire".
+
+    53: |-
+      Augmente de 40% vos dégats physiques et infligés, de 15% vos PV maximums, et réduit le coût en PT des techniques d'arme.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.<br>
+      Ne peut être utilisé en même temps qu'une autre action de type "mémoire".
+
+    54: |-
+      Augmente de 25% vos dégats physiques infligés et de 25% votre esquive.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.<br>
+      Ne peut être utilisé en même temps qu'une autre action de type "mémoire".
+
+    55: |-
+      Augmente de 2000 votre défense.<br>
+      Si vous subissez une attaque vous infligeant des dégâts d'un montant supérieur ou égal à 50% de vos PV maximums, vous octroie 1 degré de Bonus de PV. Cumulable jusqu'au 16e degré.<br>
+      L'effet prend fin si vous utilisez une action Logos du même type ou si vous relancez l'action.<br>
+      Ne peut être utilisé en même temps qu'une autre action de type "mémoire".
+
+    56: |-
+      Ressuscite la cible et restaure l'intégralité de ses PV.<br>
+      Effet additionnel : vou sinflige l'effet Glas. Durée : 10s<br>
+      Condition : ne pas être déjà victime de l'effet Glas.

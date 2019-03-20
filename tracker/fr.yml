@@ -1,0 +1,95 @@
+tracker:
+  trackerId: 'tracker id'
+  instance: 'instance'
+  pw: 'pw'
+  copyToClipboard: 'copy to clipboard'
+  level: 'Niv'
+  notoriousMonster: 'NM'
+  spawnedBy: 'Apparition par'
+  position: 'POS'
+  popped: 'Apparu à'
+  respawn: 'Réapparition'
+  gales: 'Vents violents'
+  weather: 'Météo'
+  night: 'Nuit'
+  nextGalesIn: 'prochains vents violents dans'
+  nextSpecialWeatherIn: 'prochain {weather} dans'
+  galesIn: 'vents violents dans'
+  specialWeatherIn: '{weather} dans'
+  nightIn: 'nuit dans'
+  nightBeginsIn: 'nuit commence dans'
+  nightEndsIn: 'nuit finit dans'
+  askingForPazuzu: '{viewers} regarde'
+  resetAllWarning: "Avertissement : tous les timers d'apparition des NM seront remis à zéro. Vous êtes sur ?"
+  exportTracker: 'exporter le tracker'
+  enterPassword: 'entrer le mot de passe'
+  dataCenter: 'Centre de données'
+  instanceId: "ID de l'instance"
+
+  timeDialog:
+    timeAgo: 'time ago'
+    localTime: 'heure locale'
+    hourShort: 'hr'
+    minuteShort: 'min'
+    secondShort: 'sec'
+    minutesAgo: |-
+      Il y a {count} {count, plural,
+        one {minute}
+        other {minutes}
+      }
+    hoursAgo: |-
+      {count} {count, plural,
+        one {hour}
+        other {hours}
+      }
+
+  button:
+    pop: 'Apparition'
+    reset: 'Reset'
+    resetAll: 'Tout reset'
+
+  tooltips:
+    copied: 'copié !'
+    copyTrackerId: 'id du tracker'
+    copyTrackerUrl: 'URL du tracker'
+    copyTrackerPassword: 'mot de passe du tracker'
+    copyKilledNm: 'NMs tués'
+    copySoonNm: 'NMs bientôt disponibles'
+    copyAvailNm: 'NMs disponibles'
+    copyTimeToWeather: 'temps pour la prochaine météo : {weather}'
+    copyTimeToNight: 'cycle de la nuit'
+    isBossUp: '"{boss} est Up??"'
+    spamItAll: 'la totale'
+    exportToLocalTracker: 'exporter au tracker local'
+    exportToNewTracker: 'exporter au tracker partagé'
+    enterTrackerPassword: 'entrer le mot de passe du tracker'
+    setInstanceInformation: "editer les informations de l'instance"
+    dataCenterInfo: "Entrer le centre de données de l'instance permettra à ce tracker d'être recherché. l'ID de l'instance peut être obtenu par des logiciels tiers si désiré."
+    prepped: 'NM préfarmé'
+
+  clipboard:
+    specialWeatherInTime: '{weather} dans {time}'
+    listSeparator: ' \u2192 '
+    onCooldown: 'NMs non disponibles : {list}'
+    respawningSoon: 'NMs bientôt disponibles : {list}'
+    openNow: 'NMs dont la fenêtre est disponible : {list}'
+    nmAvailable: '{nm} (up)'
+    nmRespawn: '{nm} ({respawn})'
+    listNone: 'none'
+    weatherCurrent: '\u2605 Le temps actuel est {weather}! La prochaine météo {weather} sera dans : {time} LT'
+    weatherNext: '\u2605 Prochaine météo {weather} dans : {time} LT'
+    nightEnds: '\u2605 La nuit se termine dans {time} LT'
+    nightBegins: '\u2605 La nuit commence dans {time} LT'
+    boss:
+      available: '\u2605 "{boss} est up ?" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
+      availableWeather: '\u2605 "{boss} est up?" \uE089\uE075\uE083, mais... ( ; \u0434 ; ) >>> {weather} à {weatherTime} LT'
+      dead: '\u2605 "{boss} est up?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Up à {time} LT'
+      deadWeather: '\u2605 "Is {boss} up?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Up in {time}, {weather} in {weatherTime} LT'
+    spamItAll:
+      text: '\u2605 Tracker: {url} \u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 Les heures sont en temps local \u2605'
+      localTrackerText: '\u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 Les heures sont en temps local \u2605'
+      weatherNext: 'météo {weather} à {time}'
+      weatherCurrent: 'météo {weather} se termine dans {endTime} -- prochaine météo {weather} dans {time}'
+      weatherSeparator: ' \u2605 '
+      nightEnds: 'la nuit se termine dans {time}'
+      nightBegins: 'La nuit commence dans {time}'

@@ -1,0 +1,16 @@
+jobs:
+  ast: AST
+  blm: MNO
+  brd: BRD
+  drg: DRG
+  drk: CHN
+  mch: MCH
+  mnk: MOI
+  nin: NIN
+  pld: PLD
+  rdm: MRG
+  sam: SAM
+  sch: ERU
+  smn: INV
+  war: GUE
+  whm: MBL

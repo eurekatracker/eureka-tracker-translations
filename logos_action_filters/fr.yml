@@ -1,0 +1,42 @@
+logos_action_filters:
+  # jobs
+  1: "tank"
+  2: "soigneur"
+  3: "dps melee"
+  4: "dps distance physique"
+  5: "dps distance magique"
+
+  # attributes
+  6: "dégats"
+  7: "dégats physiques"
+  8: "dégats magiques"
+  9: "dégats à distance"
+  10: "précision"
+
+  11: "def"
+  12: "def physique"
+  13: "def magique"
+  14: "esquive"
+
+  15: "pv"
+  16: "pm"
+  17: "pt"
+  18: "pv max"
+  19: "pm max"
+
+  20: "buff"
+  21: "debuff"
+
+  22: "poison"
+  23: "paralysie"
+  24: "etourdissement"
+  25: "pesanteur"
+
+  26: "vitesse de déplacement"
+  27: "vitesse de monture"
+  28: "temps de recharge"
+
+  29: "ko"
+  30: "resurrection"
+  31: "inimitié"
+  32: "aoe"
