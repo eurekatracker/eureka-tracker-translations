@@ -33,7 +33,7 @@ logogram_tracker:
       jobs: "jobs"
       attributes: "attributs"
 
-  logograms: Logograms
+  logograms: Eclats Logos
 
   need: |-
     <span class="need">Besoin de</span> <span class="highlight">{count}</span>
