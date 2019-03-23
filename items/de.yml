@@ -1,0 +1,35 @@
+items:
+  # Anemos
+  lord: "Prinz von Anemos (Begleiter)"
+  emperor: "Kaiser-Haarnadel (Projektion)"
+  serket: |-
+    Skorpion-Harnisch (Projektion)<br>
+    Mithra-Puppe (Begleiter)
+  strider: "Läuferstiefel (Sprint +10s in Stadtstaaten)"
+  fafnir: "Mini-Fafnir (Begleiter)"
+  pazuzu: |-
+    Pazuzu-Fetisch (Tischdekoration)<br>
+    Pazuzu-Karte (Triple Triad)
+
+  # Pagos
+  hakutaku: "Optischer Hut (Eureka-Effekt, benötigt Gold)"
+  taxim: "Flöckchen-Karte (Triple Triad)"
+  arthro: "Tempogürtel (Eureka-Effekt)"
+  cassie: "Cassie-Ohrring (Eureka-Effekt)"
+  louhi: "Louhi-Karte (Triple Triad)"
+
+  # Pyros
+  graffiacane: "Calco-Puppe (Begleiter)"
+  lamebrix: "Wüterix-Würfel (Maginit-Gegenstand)"
+  lumberJack: "Elvaan-Marionette (Begleiter)"
+  yingYang: "Yin-Yang-Membran (Maginit-Gegenstand)"
+  skoll: "Skalli-Klaue (Maginit-Gegenstand)"
+  penny: "Penthesilea-Karte (Triple Triad)"
+
+  # Hydatos
+  molech: "Moleks Horn (Maginit-Gegenstand)"
+  goldemar: |-
+    Goldemars Horn (Maginit-Gegenstand)<br>
+    Dvergr-Karte(Triple Triad)
+  ceto: "Cetos Klaue (Maginit-Gegenstand)"
+  provenanceWatcher: "Kristallwächter-Karte (Triple Triad)"
