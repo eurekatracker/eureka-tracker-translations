@@ -1,0 +1,35 @@
+items:
+  # Anemos
+  lord: "常风王子（宠物）"
+  emperor: "皇帝飞虫的薄翼发饰（头部防具）"
+  serket: |-
+    毒蝎格斗服（身体防具）<br>
+    米斯拉人偶（宠物）
+  strider: "阔步高筒靴（城内冲刺效果时间延长10秒）"
+  fafnir: "迷你法夫纳（宠物）"
+  pazuzu: |-
+    帕祖祖的祭坛（桌上）<br>
+    九宫幻卡：帕祖祖
+
+  # Pagos
+  taxim: "九宫幻卡：雪童子"
+  hakutaku: "视觉尖角帽（优雷卡专用效果，金牌评价）"
+  arthro: "速度腰带（优雷卡专用效果）"
+  cassie: "凯西耳坠（优雷卡专用效果）"
+  louhi: "九宫幻卡：娄希"
+
+  # Pyros
+  graffiacane: "Calca (minion)"
+  lamebrix: "Lamebrix's Dice (magicite item)"
+  lumberJack: "Wind-up Elvaan (minion)"
+  yingYang: "Ying-Yang's Tissue (magicite item)"
+  skoll: "Skoll's Claw (magicite item)"
+  penny: "Penthesilea Card (triple triad)"
+
+  # Hydatos
+  molech: "Molech's Horn (magicite item)"
+  goldemar: |-
+    Goldemar's Horn (magicite item)<br>
+    Dvergr Card (triple triad)
+  ceto: "Ceto's Claw (magicite item)"
+  provenanceWatcher: "Provenance Watcher Card (triple triad)"

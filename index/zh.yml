@@ -3,8 +3,8 @@ index:
   enter: "进入"
   createNewTracker: "新建{zone}Tracker"
   useLocalTracker: "使用本地Tracker"
-  creatingInstance: "加载中..."
-  findTrackers: "查找 Trackers"
+  creatingInstance: "创建中..."
+  findTrackers: "查找Tracker"
 
   messages:
     noLongerAvailable: "Tracker {id} 由于不活动已被停用"
@@ -12,4 +12,4 @@ index:
     notFound: "您正在寻找的Tracker不存在"
 
   tooltips:
-    detailedMap: "{zone} 细节地图"
+    detailedMap: "{zone}细节地图"

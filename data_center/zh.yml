@@ -1,0 +1,25 @@
+data_center:
+  name:
+    1: "Elemental"
+    2: "Gaia"
+    3: "Mana"
+    4: "Aether"
+    5: "Primal"
+    6: "Chaos"
+    7: "中国区"
+    8: "中国二区"
+
+  finder:
+    trackersIn: '{zone}的Tracker'
+
+    table:
+      trackerId: 'Tracker ID'
+      zone: '区域'
+      instanceId: '实例ID'
+      lastUpdated: '上次更新'
+      timeActive: '存活时间'
+      nmsPopped: '触发情况'
+
+    tooltip:
+      nm: '{nm}'
+      nmRespawn: '{nm} ({time}后重新出现)'

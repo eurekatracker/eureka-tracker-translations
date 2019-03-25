@@ -41,6 +41,25 @@ monster:
     36: "复制魔花凯西"
     37: "娄希"
 
+    # Pyros
+    38: "Leucosia"
+    39: "Flauros"
+    40: "The Sophist"
+    41: "Graffiacane"
+    42: "Askalaphos"
+    43: "Grand Duke Batym"
+    44: "Aetolus"
+    45: "Lesath"
+    46: "Eldthurs"
+    47: "Iris"
+    48: "Lamebrix Strikebocks"
+    49: "Dux"
+    50: "Lumber Jack"
+    51: "Glaukopis"
+    52: "Ying-Yang"
+    53: "Skoll"
+    54: "Penthesilea"
+
   nm_short:
     # Anemos
     1: "仙人掌"
@@ -82,6 +101,25 @@ monster:
     35: "安哥拉·曼纽"
     36: "魔花凯西"
     37: "娄希"
+
+    # Pyros
+    38: "Leucosia"
+    39: "Flauros"
+    40: "Sophist"
+    41: "Doll"
+    42: "Owl"
+    43: "Batym"
+    44: "Aetolus"
+    45: "Lesath"
+    46: "Eldthurs"
+    47: "Iris"
+    48: "Lamebrix"
+    49: "Dux"
+    50: "Jack"
+    51: "Glaukopis"
+    52: "YY"
+    53: "Skoll"
+    54: "Penny"
 
   fodder:
     # Anemos
@@ -125,6 +163,25 @@ monster:
     36: "阿米雷戴"
     37: "瓦尔腐尸"
 
+    # Pyros
+    38: "Pyros Bhoot"
+    39: "Thunderstorm Sprite"
+    40: "Pyros Apanda"
+    41: "Valking"
+    42: "Overdue Tome"
+    43: "Dark Troubadour"
+    44: "Islandhandler"
+    45: "Bird Eater"
+    46: "Pyros Crab"
+    47: "Northern Swallow"
+    48: "Illuminati Escapee"
+    49: "Matanga Castaway"
+    50: "Pyros Treant"
+    51: "Val Skatene"
+    52: "Pyros Hecteyes"
+    53: "Pyros Shuck"
+    54: "Val Bloodglider"
+
   fodder_short:
     # Anemos
     1: "仙人花"
@@ -166,3 +223,22 @@ monster:
     35: "瞪视之眼"
     36: "阿米雷戴"
     37: "瓦尔腐尸"
+
+    # Pyros
+    38: "Bhoot"
+    39: "Thund Sprite"
+    40: "Apanda"
+    41: "Valking"
+    42: "Tome"
+    43: "Troubadour"
+    44: "Islandhandler"
+    45: "Bird Eater"
+    46: "Crab"
+    47: "Swallow"
+    48: "Escapee"
+    49: "Castaway"
+    50: "Treant"
+    51: "Skatene"
+    52: "Hecteyes"
+    53: "Shuck"
+    54: "Bloodglider"
