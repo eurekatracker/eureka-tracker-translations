@@ -7,19 +7,19 @@ logogram_acquisitions:
   "sprite-conceptual": "当前或更高等级的元精"
   "sprite-fundamental": "41级的雷暴元精"
   "sprite-mitigative": "46级的雷暴元精"
-  "undead-adaptation": "变异的不死系怪物"
+  "undead-adaptation": "适应后的不死系怪物"
 
   "sprite-adaptation-inimical": |-
     <ul>
-      <li>52级变异的雷暴元精</li>
-      <li>54级变异的雷暴元精</li>
-      <li>55级变异的台风元精</li>
+      <li>52级适应后的雷暴元精</li>
+      <li>54级适应后的雷暴元精</li>
+      <li>55级适应后的台风元精</li>
     </ul>
 
   "sprite-adaptation-mitigative": |-
     <ul>
-      <li>43级变异的余烬元精</li>
-      <li>46级变异的雷暴元精</li>
+      <li>43级适应后的余烬元精</li>
+      <li>46级适应后的雷暴元精</li>
     </ul>
 
   "NM-curative": |-
