@@ -63,7 +63,7 @@ logos_action:
     weaponskill: "ウェポンスキル"
 
   attributes:
-    duration: duration
+    duration: 効果時間
     cast: cast
     recast: recast
 
