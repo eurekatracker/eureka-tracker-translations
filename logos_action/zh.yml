@@ -63,17 +63,15 @@ logos_action:
     weaponskill: "战技"
 
   attributes:
-    duration: duration
-    cast: cast
-    recast: recast
+    duration: "持续时间"
+    cast: "咏唱时间"
+    recast: "复唱时间"
 
   description:
     1: |-
       令自身发动魔法攻击造成的伤害提高60%<br>
-
       无法与其他“记忆”系技能同时使用<br>
       切换任务指令时消失<br>
-
       再次发动时则取消该状态　持续时间：永久
 
 
@@ -171,7 +169,6 @@ logos_action:
       追加效果：受伤加重<br>
       持续时间：60秒<br>
       受伤加重效果：目标所受伤害提高8%<br>
-
 
 
     21: |-
