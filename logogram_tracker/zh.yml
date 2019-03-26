@@ -1,0 +1,41 @@
+logogram_tracker:
+  reset_actions_warning: |-
+    警告：这会遗忘所有的文理技能。确认？
+
+  reset_count_warning: |-
+    警告：这会重置已获得的文理技能。确认？
+
+  consume_mnemes: |-
+    当学习或提取文理技能时消耗下列水晶
+
+  titles:
+    logos_actions: "文理技能"
+    mnemes: "水晶"
+    filters: "筛选"
+
+  actions:
+    reset: "重置"
+    click_to_extract: "点击技能进行学习或提取"
+
+  filter:
+    "by_logogram": "文理排序"
+    "by_type": "类别排序"
+    "default": "默认排序"
+
+  action_filters:
+    logic:
+      or: "or"
+      and: "and"
+    select:
+      all: "all"
+      none: "none"
+    categories:
+      jobs: "职业"
+      attributes: "属性"
+
+  logograms: 文理系统
+
+  need: |-
+    <span class="need">需要</span> <span class="highlight">{count}</span>
+
+  combinations: 组成

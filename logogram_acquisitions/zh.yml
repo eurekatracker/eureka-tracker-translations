@@ -1,0 +1,61 @@
+logogram_acquisitions:
+  "chain-30": "30次连锁"
+  "coffer-bronze": "铜箱子"
+  "coffer-gold": "金箱子"
+  "coffer-silver": "银箱子"
+  "heatbox": "发生变异的燃烧上锁宝箱"
+  "sprite-conceptual": "当前或更高等级的元精"
+  "sprite-fundamental": "41级的雷暴元精"
+  "sprite-mitigative": "46级的雷暴元精"
+  "undead-adaptation": "适应后的不死系怪物"
+
+  "sprite-adaptation-inimical": |-
+    <ul>
+      <li>52级适应后的雷暴元精</li>
+      <li>54级适应后的雷暴元精</li>
+      <li>55级适应后的台风元精</li>
+    </ul>
+
+  "sprite-adaptation-mitigative": |-
+    <ul>
+      <li>43级适应后的余烬元精</li>
+      <li>46级适应后的雷暴元精</li>
+    </ul>
+
+  "NM-curative": |-
+    <ul>
+      <li>琉科西亚</li>
+      <li>格拉菲亚卡内</li>
+      <li>埃托洛斯</li>
+      <li>伊丽丝</li>
+      <li>樵夫杰科</li>
+      <li>彭忒西勒亚</li>
+    </ul>
+
+  "NM-inimical": |-
+    <ul>
+      <li>诡辩者</li>
+      <li>巴钦大公爵</li>
+      <li>火巨人</li>
+      <li>闪电督军</li>
+      <li>阴·阳</li>
+    </ul>
+
+  "NM-protective": |-
+    <ul>
+      <li>佛劳洛斯</li>
+      <li>阿斯卡拉福斯</li>
+      <li>来萨特</li>
+      <li>佣兵雷姆普里克斯</li>
+      <li>明眸</li>
+      <li>斯库尔</li>
+    </ul>
+
+  # Hydatos
+  "NM-obscure": |-
+    <ul>
+      <li>Khalimari</li>
+      <li>Stegodon</li>
+      <li>Molech</li>
+      <li>+NM Fodder</li>
+    </ul>
