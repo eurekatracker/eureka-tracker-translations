@@ -62,13 +62,18 @@ logos_action:
     ability: "能力"
     weaponskill: "战技"
 
+  attributes:
+    duration: duration
+    cast: cast
+    recast: recast
+
   description:
     1: |-
       令自身发动魔法攻击造成的伤害提高60%<br>
-      
+
       无法与其他“记忆”系技能同时使用<br>
       切换任务指令时消失<br>
-      
+
       再次发动时则取消该状态　持续时间：永久
 
 
@@ -166,7 +171,7 @@ logos_action:
       追加效果：受伤加重<br>
       持续时间：60秒<br>
       受伤加重效果：目标所受伤害提高8%<br>
-      
+
 
 
     21: |-
@@ -271,7 +276,7 @@ logos_action:
     45: |-
       一定时间内，自身与周围队员的魔素以太恢复量提高<br>
       持续时间：30秒<br>
-      
+
 
 
     46: |-
@@ -308,44 +313,44 @@ logos_action:
 
     51: |-
       Reveals all traps within a 15-yalm radius.<br>
-      
+
       If no traps exist within 15 yalms, detects whether any traps are present within a 36-yalm radius.<br>
-      
+
       Only effective within dungeons.
 
     52: |-
       Increases magic damage dealt by 35% and magic defense by 1,000, while decreasing spell MP cost.<br>
-      
+
       Cannot be used with other Wisdom abilities.<br>
-      
+
       Effect ends upon reuse or upon replacement of duty action.
 
     53: |-
       Increases physical damage dealt by 40% and maximum HP by 15%, while decreasing weaponskill TP cost.<br>
-      
+
       Cannot be used with other Wisdom abilities.<br>
-      
+
       Effect ends upon reuse or upon replacement of duty action.
 
     54: |-
       Increases physical damage dealt by 25% and evasion by 25%.<br>
-      
+
       Cannot be used with other Wisdom abilities.<br>
-      
+
       Effect ends upon reuse or upon replacement of duty action.
 
     55: |-
       Increases defense by 2,000.<br>
-      
+
       Grants one stack of HP Boost each time damage equal to or greater than half of maximum HP is taken from a single-target attack.<br>
-      
+
       Cannot be used with other Wisdom abilities.<br>
-      
+
       Effect ends upon reuse or upon replacement of duty action.
 
     56: |-
       Restores 100% of target's HP, even if target is KO'd.<br>
-      
+
       Cannot be executed if currently afflicted with Doom.<br>
-      
+
       Additional Effect: Inflicts Doom on self.

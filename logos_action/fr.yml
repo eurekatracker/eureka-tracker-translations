@@ -62,6 +62,11 @@ logos_action:
     ability: aptitude
     weaponskill: technique d'arme
 
+  attributes:
+    duration: duration
+    cast: cast
+    recast: recast
+
   description:
     1: |-
       Augmente de 60% vos dégâts magiques infligés. <br>

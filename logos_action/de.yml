@@ -62,6 +62,11 @@ logos_action:
     ability: Talent
     weaponskill: Waffenfertigkeit
 
+  attributes:
+    duration: duration
+    cast: cast
+    recast: recast
+
   description:
     1: |-
       Du erhöhst deinen ausgeteilten Magieschaden um 60%.<br>

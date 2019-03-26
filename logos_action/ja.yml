@@ -62,6 +62,11 @@ logos_action:
     ability: "アビリティ"
     weaponskill: "ウェポンスキル"
 
+  attributes:
+    duration: duration
+    cast: cast
+    recast: recast
+
   description:
     1: "自身の与魔法ダメージを60%上昇させる。<br>\n他の「記憶」系アクションとは同時に使えない。<br>\nコンテンツアクション切り替え時に効果が切れる。"
     2: "自身の与物理ダメージを40%上昇させる。<br>\n他の「記憶」系アクションとは同時に使えない。<br>\nコンテンツアクション切り替え時に効果が切れる。"
