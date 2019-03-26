@@ -24,33 +24,34 @@ logogram_acquisitions:
 
   "NM-curative": |-
     <ul>
-      <li>Leucosia</li>
-      <li>Graffiacane</li>
-      <li>Aetolus</li>
-      <li>Iris</li>
-      <li>Lumber Jack</li>
-      <li>Penthesilea</li>
+      <li>琉科西亚</li>
+      <li>格拉菲亚卡内</li>
+      <li>埃托洛斯</li>
+      <li>伊丽丝</li>
+      <li>樵夫杰科</li>
+      <li>彭忒西勒亚</li>
     </ul>
 
   "NM-inimical": |-
     <ul>
-      <li>The Sophist</li>
-      <li>Grand Duke Batym</li>
-      <li>Eldthurs</li>
-      <li>Dux</li>
-      <li>Ying-Yang</li>
+      <li>诡辩者</li>
+      <li>巴钦大公爵</li>
+      <li>火巨人</li>
+      <li>闪电督军</li>
+      <li>阴·阳</li>
     </ul>
 
   "NM-protective": |-
     <ul>
-      <li>Flauros</li>
-      <li>Askalaphos</li>
-      <li>Lesath</li>
-      <li>Lamebrix Strikebocks</li>
-      <li>Glaukopis</li>
-      <li>Skoll</li>
+      <li>佛劳洛斯</li>
+      <li>阿斯卡拉福斯</li>
+      <li>来萨特</li>
+      <li>佣兵雷姆普里克斯</li>
+      <li>明眸</li>
+      <li>斯库尔</li>
     </ul>
 
+  # Hydatos
   "NM-obscure": |-
     <ul>
       <li>Khalimari</li>
