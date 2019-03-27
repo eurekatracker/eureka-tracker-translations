@@ -8,7 +8,7 @@ index:
 
   messages:
     noLongerAvailable: "{id} 트래커는 활동이 없으므로 더 이상 이용할 수 없습니다"
-    serverError: "요청을 처리하는 도중 에러가 발생했습니다, 다시 시도해주세요"
+    serverError: "요청을 처리하는 도중 오류가 발생했습니다, 다시 시도해주세요"
     notFound: "찾고 있는 트레커가 존재하지 않습니다"
 
   tooltips:

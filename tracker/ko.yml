@@ -20,7 +20,7 @@ tracker:
   nightBeginsIn: "밤이 오기까지"
   nightEndsIn: "밤이 끝나기까지"
   askingForPazuzu: "{viewers}명 보는 중"
-  resetAllWarning: "경고: 모든 마물 등장시간이 초기화 됩니다. 진짜 실행할까요?"
+  resetAllWarning: "경고: 모든 마물 등장시간이 초기화 됩니다. 정말 실행할까요?"
   exportTracker: "트래커 내보내기"
   enterPassword: "비밀번호 입력"
   dataCenter: "데이터 센터"
@@ -57,7 +57,7 @@ tracker:
     enterTrackerPassword: "트래커 비밀번호 입력"
     setInstanceInformation: "인스턴스 데이터 수정"
     dataCenterInfo: "데이터 센터를 입력하면 이 트래커를 검색할 수 있습니다. 필요하다면 인스턴스 ID는 외부 툴로 얻을 수 있습니다."
-    prepped: "마물 소환 준비:<br>소환 조건 몹 {count}마리 사냥"
+    prepped: "마물 소환 준비"
 
   clipboard:
     specialWeatherInTime: "{weather} 동안 {time}"

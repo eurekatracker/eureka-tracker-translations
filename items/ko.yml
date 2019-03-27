@@ -1,0 +1,35 @@
+items:
+  # Anemos
+  lord: "아네모스 왕자 (꼬마 친구)"
+  emperor: "황제날벌레 머리장식 (치장 아이템)"
+  serket: |-
+    전갈 멜빵갑옷 (치장 아이템)<br>
+    미스라 인형 (꼬마 친구)
+  strider: "한달음 장화 (도시 내에 한해 전력 질주 10초 연장)"
+  fafnir: "파프니르 인형 (꼬마 친구)"
+  pazuzu: |-
+    파주주의 제단 (소품(탁상))<br>
+    Pazuzu Card (트리플 트라이어드 카드)
+
+  # Pagos
+  taxim: "카드: 눈요정 (트리플 트라이어드 카드)"
+  hakutaku: "시력 모자 (에우레카 효과, 최고 평가로 완료)"
+  arthro: "가속 허리띠 (에우레카 효과)"
+  cassie: "캐시 귀걸이 (에우레카 효과)"
+  louhi: "카드: 로우히 (트리플 트라이어드 카드)"
+
+  # Pyros
+  graffiacane: "Calca (꼬마 친구)"
+  lamebrix: "Lamebrix's Dice (마정석 아이템)"
+  lumberJack: "Wind-up Elvaan (꼬마 친구)"
+  yingYang: "Ying-Yang's Tissue (마정석 아이템)"
+  skoll: "Skoll's Claw (마정석 아이템)"
+  penny: "Penthesilea Card (트리플 트라이어드 카드)"
+
+  # Hydatos
+  molech: "Molech's Horn (마정석 아이템)"
+  goldemar: |-
+    Goldemar's Horn (마정석 아이템)<br>
+    Dvergr Card (트리플 트라이어드 카드)
+  ceto: "Ceto's Claw (마정석 아이템)"
+  provenanceWatcher: "Provenance Watcher Card (트리플 트라이어드 카드)"
