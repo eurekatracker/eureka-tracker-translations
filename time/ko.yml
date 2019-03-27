@@ -3,4 +3,4 @@ time:
     hours: "{hours}시간"
     minutes: "{minutes}분"
     seconds: "{seconds}초"
-    hours_minutes: "{hours}분 {minutes}초"
+    hours_minutes: "{hours}시간 {minutes}분"

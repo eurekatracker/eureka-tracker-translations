@@ -1,0 +1,258 @@
+logos_action:
+  name:
+    1: Wisdom of the Aetherweaver
+    2: Wisdom of the Martialist
+    3: Wisdom of the Platebearer
+    4: Wisdom of the Guardian
+    5: Wisdom of the Ordained
+    6: Wisdom of the Skirmisher
+    7: Wisdom of the Watcher
+    8: Wisdom of the Templar
+    9: Wisdom of the Irregular
+    10: Wisdom of the Breathtaker
+    11: Spirit of the Remembered
+    12: Protect L
+    13: Shell L
+    14: Death L
+    15: Focus L
+    16: Paralyze L
+    17: Paralyze L III
+    18: Swift L
+    19: Featherfoot L
+    20: Spirit Dart L
+    21: Catastrophe L
+    22: Dispel L
+    23: Feint L
+    24: Stealth L
+    25: Aetherial Manipulation L
+    26: Backstep L
+    27: Tranquilizer L
+    28: Bloodbath L
+    29: Rejuvenate L
+    30: Haymaker L
+    31: Rapid Recast L
+    32: Cure L
+    33: Cure L II
+    34: Stoneskin L
+    35: Cure L III
+    36: Regen L
+    37: Esuna L
+    38: Incense L
+    39: Raise L
+    40: Bravery L
+    41: Solid Shield L
+    42: Spell Shield L
+    43: Reflect L
+    44: Smite L
+    45: Refresh L
+    46: Banish L
+    47: Banish L III
+    48: Magic Burst L
+    49: Double Edge L
+    50: Eagle Eye Shot L
+    51: Perception L
+    52: Wisdom of the Elder
+    53: Wisdom of the Duelist
+    54: Wisdom of the Fiendhunter
+    55: Wisdom of the Indomitable
+    56: Sacrifice L
+
+  type:
+    spell: "마법"
+    ability: "능력"
+    weaponskill: "무기 기술"
+
+  attributes:
+    duration: "지속시간"
+    cast: "마법 시전 시간"
+    recast: "재사용 대기 시간"
+
+  description:
+    1: |-
+      Increases magic damage dealt by 60%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    2: |-
+      Increases damage dealt by 40%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    3: |-
+      Increases defense by 3,000 and maximum HP by 50%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    4: |-
+      Increases defense by 1,800 and maximum HP by 10%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    5: |-
+      Increases maximum MP by 50% and healing magic potency by 25%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    6: |-
+      Increases damage dealt by 20%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    7: |-
+      Increases evasion by 25% while reducing damage dealt by 5%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    8: |-
+      Increases healing magic potency by 50% and maximum HP by 30%, while reducing damage dealt by 5%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    9: |-
+      Increases damage dealt by 30% while reducing magic defense by 60%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    10: |-
+      Increases poison resistance and movement speed, including mount speed, and increases evasion by 10%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    11: |-
+      Increases maximum HP by 10% and accuracy by 30%.<br>
+      Additional Effect: Grants a 70% chance of automatic revival upon KO.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    12: "Increases the physical defense of the target by 1,000."
+    13: "Increases the magic defense of the target by 1,000."
+    14: "KOs target. The less the target's HP, the greater the chance of success."
+
+    15: |-
+      Grants a stack of Boost, up to a maximum of 16.<br>
+      Boost Bonus: Increases potency of next weaponskill by 30% per stack.<br>
+      Shares a recast timer with all weaponskills.
+
+    16: "Afflicts target with Paralysis."
+    17: "Afflicts target and all nearby enemies with Paralysis."
+    18: "Greatly increases movement speed."
+    19: "Increases evasion by 15%."
+
+    20: |-
+      Delivers a ranged attack with a potency of 100.<br>
+      Additional Effect: Afflicts target with Spirit Dart L, increasing damage taken by 8%.
+
+    21: "Deals unaspected damage to all nearby enemies with a potency of 4,000, while dealing damage with a potency of 999,999 to self."
+    22: "Removes one beneficial status from target."
+
+    23: |-
+      Delivers an attack with a potency of 100.<br>
+      Additional Effect: Reduces target's evasion.
+
+    24: |-
+      Blend in with your surroundings, making it impossible for most enemies to detect you, but reducing movement speed by 50%.<br>
+      Has no effect on certain enemies with special sight.<br>
+      Cannot be executed while in combat.<br>
+      Effect ends upon use of any action other than Sprint, or upon reuse.
+
+    25: |-
+      Rush to a target's side.<br>
+      Unable to cast if bound.
+
+    26: |-
+      Jump 10 yalms back from current position.<br>
+      Cannot be executed while bound.
+
+    27: "Stuns target."
+    28: "Converts a portion of damage dealt into HP."
+    29: "Instantly restores 500 TP and 50% of maximum MP."
+
+    30: |-
+      Delivers an attack with a potency of 300.<br>
+      Can only be executed immediately after evading an attack.<br>
+      Additional Effect: Slow +20%.
+
+    31: "Shortens recast time for next ability used by 50%."
+
+    32: |-
+      Restores target's HP.<br>
+      Cure Potency: 9,000.
+
+    33: |-
+      Restores target's HP.<br>
+      Cure Potency: 12,000.
+
+    34: "Creates a barrier around target that absorbs damage totaling 10% of target's maximum HP."
+
+    35: |-
+      Restores HP of target and all party members nearby target.<br>
+      Cure Potency: 9,000.
+
+    36: |-
+      Grants healing over time effect to target.<br>
+      Cure Potency: 2,500.
+
+    37: "Removes a single detrimental effect from target."
+    38: "Gesture threateningly, placing yourself at the top of the target's enmity list and increasing enmity generation."
+    39: "Resurrects target to a weakened state."
+    40: "Increases target's damage dealt by 10%."
+    41: "Reduces physical damage taken by 99%."
+    42: "Reduces magic damage taken by 99%."
+    43: "Creates a magic-reflecting barrier around self or party member."
+
+    44: |-
+      Delivers an attack with a potency of 1,000.<br>
+      Can only be executed when your HP is below 50%.<br>
+      Additional Effect: Restores an amount of own HP proportional to damage dealt.
+
+    45: "Increases the amount of magia aether regenerated over time by self and nearby party members."
+
+    46: |-
+      Deals unaspected damage with a potency of 200.<br>
+      Additional Effect: Afflicts undead targets with Banish L, increasing damage taken by 25%.
+
+    47: |-
+      Deals unaspected damage with a potency of 150 to target and all enemies nearby it.<br>
+      Additional Effect: Afflicts undead targets with Banish L, increasing damage taken by 25%.
+
+    48: "Increaes spell damage by 100% while increasing MP cost."
+
+    49: |-
+      Increases physical damage dealt while dealing damage to self over time.<br>
+      Stacks increase every 3 seconds, up to a maximum of 16.<br>
+      For each stack, physical damage dealt is increased by 15%, and potency of damage dealt to self increases by 1,200.
+
+    50: |-
+      Delivers a ranged attack with a potency of 80.<br>
+      Potency increases up to 1,000% the lower the target's HP.<br>
+      Generates significant enmity upon use.
+
+    51: |-
+      Reveals all traps within a 15-yalm radius.<br>
+      If no traps exist within 15 yalms, detects whether any traps are present within a 36-yalm radius.<br>
+      Only effective within dungeons.
+
+    52: |-
+      Increases magic damage dealt by 35% and magic defense by 1,000, while decreasing spell MP cost.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    53: |-
+      Increases physical damage dealt by 40% and maximum HP by 15%, while decreasing weaponskill TP cost.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    54: |-
+      Increases physical damage dealt by 25% and evasion by 25%.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    55: |-
+      Increases defense by 2,000.<br>
+      Grants one stack of HP Boost each time damage equal to or greater than half of maximum HP is taken from a single-target attack.<br>
+      Cannot be used with other Wisdom abilities.<br>
+      Effect ends upon reuse or upon replacement of duty action.
+
+    56: |-
+      Restores 100% of target's HP, even if target is KO'd.<br>
+      Cannot be executed if currently afflicted with Doom.<br>
+      Additional Effect: Inflicts Doom on self.
