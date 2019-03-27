@@ -33,9 +33,9 @@ logogram_tracker:
       jobs: "직업"
       attributes: "속성"
 
-  logograms: 로고그램
+  logograms: "로고그램"
 
   need: |-
     <span class="highlight">{count}</span> <span class="need">개 필요</span>
 
-  combinations: 조합
+  combinations: "조합"

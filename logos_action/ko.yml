@@ -58,14 +58,14 @@ logos_action:
     56: Sacrifice L
 
   type:
-    spell: 마법
-    ability: 능력
-    weaponskill: 무기 기술
+    spell: "마법"
+    ability: "능력"
+    weaponskill: "무기 기술"
 
   attributes:
-    duration: 지속시간
-    cast: 마법 시전 시간
-    recast: 재사용 대기 시간
+    duration: "지속시간"
+    cast: "마법 시전 시간"
+    recast: "재사용 대기 시간"
 
   description:
     1: |-
