@@ -8,6 +8,7 @@ data_center:
     6: "Chaos"
     7: "中国区"
     8: "中国二区"
+    9: "한국"
 
   finder:
     trackersIn: "{zone}의 트래커"
@@ -21,4 +22,5 @@ data_center:
       nmsPopped: "마물 소환"
 
     tooltip:
+      nm: '{nm}'
       nmRespawn: "{nm} ({time} 후 리스폰)"
