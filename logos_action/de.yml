@@ -63,9 +63,9 @@ logos_action:
     weaponskill: Waffenfertigkeit
 
   attributes:
-    duration: duration
-    cast: cast
-    recast: recast
+    duration: Dauer
+    cast: Aktivieren
+    recast: Reaktivieren
 
   description:
     1: |-
