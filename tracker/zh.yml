@@ -23,15 +23,24 @@ tracker:
   resetAllWarning: '警告：这会重置所有NM怪物的击破时间，您确定吗？'
   exportTracker: '导出tracker'
   enterPassword: '输入密码'
+  dataCenter: '数据中心'
+  instanceId: '实例ID'
 
   timeDialog:
     timeAgo: '过去时间'
     localTime: '本地时间'
     hourShort: '小时'
-    minuteShort: '分钟'
-    secondShort: '秒钟'
+    minuteShort: '分'
+    secondShort: '秒'
     minutesAgo: '{count} 分钟之前'
-    hoursAgo: '{count} 小时'
+    hoursAgo: '{count} 小时之前'
+
+
+
+
+
+
+
 
   button:
     pop: '出现'
@@ -59,3 +68,27 @@ tracker:
 
   clipboard:
     specialWeatherInTime: "{weather}还有{time}"
+    listSeparator: ' \u2192 '
+    onCooldown: '冷却中的NM: {list}'
+    respawningSoon: '冷却即将恢复的NM: {list}'
+    openNow: '可触发NM: {list}'
+    nmAvailable: '{nm} (可触发)'
+    nmRespawn: '{nm} ({respawn})'
+    listNone: '空'
+    weatherCurrent: '\u2605 当前天气是{weather}！下一个{weather}在{time}之后'
+    weatherNext: '\u2605 下一个{weather}在{time}之后'
+    nightEnds: '\u2605 夜晚结束于{time}之后'
+    nightBegins: '\u2605 夜晚开始于{time}之后'
+    boss:
+      available: '\u2605 "{boss}来了吗？" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
+      availableWeather: '\u2605 "{boss}来了吗？" \uE089\uE075\uE083, 但是... ( ; \u0434 ; ) >>> {weather}还要{weatherTime}'
+      dead: '\u2605 "{boss}来了吗？" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> 还要{time}冷却'
+      deadWeather: '\u2605 "{boss}来了吗？" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> 冷却还要{time}, {weather}还要{weatherTime}'
+    spamItAll:
+      text: '\u2605 Tracker: {url} \u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 时间均为本地时间 \u2605'
+      localTrackerText: '\u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 时间均为本地时间 \u2605'
+      weatherNext: '{weather}还要{time}'
+      weatherCurrent: '{weather}结束于{endTime} -- 下一个{weather}在{time}之后'
+      weatherSeparator: ' \u2605 '
+      nightEnds: '夜晚结束于{time}之后'
+      nightBegins: '夜晚开始于{time}之后'
