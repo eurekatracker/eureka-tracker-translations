@@ -1,55 +1,55 @@
 logos_action:
   name:
-    1: Wisdom of the Aetherweaver
-    2: Wisdom of the Martialist
-    3: Wisdom of the Platebearer
-    4: Wisdom of the Guardian
-    5: Wisdom of the Ordained
-    6: Wisdom of the Skirmisher
-    7: Wisdom of the Watcher
-    8: Wisdom of the Templar
-    9: Wisdom of the Irregular
-    10: Wisdom of the Breathtaker
-    11: Spirit of the Remembered
-    12: Protect L
-    13: Shell L
-    14: Death L
-    15: Focus L
-    16: Paralyze L
-    17: Paralyze L III
-    18: Swift L
-    19: Featherfoot L
-    20: Spirit Dart L
-    21: Catastrophe L
-    22: Dispel L
-    23: Feint L
-    24: Stealth L
-    25: Aetherial Manipulation L
-    26: Backstep L
-    27: Tranquilizer L
-    28: Bloodbath L
-    29: Rejuvenate L
-    30: Haymaker L
-    31: Rapid Recast L
-    32: Cure L
-    33: Cure L II
-    34: Stoneskin L
-    35: Cure L III
-    36: Regen L
-    37: Esuna L
-    38: Incense L
-    39: Raise L
-    40: Bravery L
-    41: Solid Shield L
-    42: Spell Shield L
-    43: Reflect L
-    44: Smite L
-    45: Refresh L
-    46: Banish L
-    47: Banish L III
-    48: Magic Burst L
-    49: Double Edge L
-    50: Eagle Eye Shot L
+    1: 술사의 기억
+    2: 투사의 기억
+    3: 중기병의 기억
+    4: 수호자의 기억
+    5: 사제의 기억
+    6: 무인의 기억
+    7: 정찰의 기억
+    8: 성기사의 기억
+    9: 광전사의 기억
+    10: 도적의 기억
+    11: 영걸의 기억
+    12: 로고스 프로테스
+    13: 로고스 셸
+    14: 로고스 데스
+    15: 로고스 집중
+    16: 로고스 파라이즈
+    17: 로고스 파라이가
+    18: 로고스 질주
+    19: 로고스 새털 걸음
+    20: 로고스 정신의 화살
+    21: 로고스 대재앙
+    22: 로고스 디스펠
+    23: 로고스 눈속임 공격
+    24: 로고스 은신
+    25: 로고스 촉진
+    26: 로고스 회피
+    27: 로고스 마취
+    28: 로고스 피의 갈증
+    29: 로고스 재충전
+    30: 로고스 맞받아치기
+    31: 로고스 빠른 재시전
+    32: 로고스 케알
+    33: 로고스 케알라
+    34: 로고스 스톤스킨
+    35: 로고스 케알가
+    36: 로고스 리제네
+    37: 로고스 에스나
+    38: 로고스 적의
+    39: 로고스 레이즈
+    40: 로고스 브레이브
+    41: 로고스 물리 방어막
+    42: 로고스 마법 방어막
+    43: 로고스 리플렉트
+    44: 로고스 강타
+    45: 로고스 생기
+    46: 로고스 배니시
+    47: 로고스 배니시가
+    48: 로고스 마법 작렬
+    49: 로고스 양날의 검
+    50: 로고스 독수리의 눈
     51: Perception L
     52: Wisdom of the Elder
     53: Wisdom of the Duelist
@@ -69,162 +69,186 @@ logos_action:
 
   description:
     1: |-
-      Increases magic damage dealt by 60%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신이 주는 마법 피해량이 60% 증가합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     2: |-
-      Increases damage dealt by 40%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신이 주는 물리 피해량이 40% 증가합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     3: |-
-      Increases defense by 3,000 and maximum HP by 50%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신의 방어력이 3000 증가하고, 최대 HP가 50% 증가합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     4: |-
-      Increases defense by 1,800 and maximum HP by 10%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신의 방어력이 1800 증가하고, 최대 HP가 10% 증가합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     5: |-
-      Increases maximum MP by 50% and healing magic potency by 25%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신의 최대 MP가 50% 증가하고, 회복마법 회복량이 25% 증가합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     6: |-
-      Increases damage dealt by 20%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신이 주는 피해량이 12% 증가합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     7: |-
-      Increases evasion by 25% while reducing damage dealt by 5%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신의 회피율이 25% 증가하고, 주는 피해량이 5% 감소합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     8: |-
-      Increases healing magic potency by 50% and maximum HP by 30%, while reducing damage dealt by 5%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신의 회복마법 회복량이 50% 증가하고 최대 HP가 30% 증가하지만, 주는 피해량이 5% 감소합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     9: |-
-      Increases damage dealt by 30% while reducing magic defense by 60%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신이 주는 피해량이 21% 증가하고, 마법 방어력이 60% 감소합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     10: |-
-      Increases poison resistance and movement speed, including mount speed, and increases evasion by 10%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신의 회피율이 10% 증가하고 이동 속도와 독 저항력이 향상됩니다.<br>
+      이동 속도 향상 효과는 탈것에도 적용됩니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     11: |-
-      Increases maximum HP by 10% and accuracy by 30%.<br>
-      Additional Effect: Grants a 70% chance of automatic revival upon KO.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신의 최대 HP가 10% 증가하고 명중률이 30% 증가합니다.<br>
+      효과가 지속되는 동안에 전투불능이 되면 70%의 확률로 자동으로 부활합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
-    12: "Increases the physical defense of the target by 1,000."
-    13: "Increases the magic defense of the target by 1,000."
-    14: "KOs target. The less the target's HP, the greater the chance of success."
+    12: "30분 동안 대상의 물리 방어력이 1000 증가합니다."
+    13: "30분 동안 대상의 마법 방어력이 1000 증가합니다."
+    14: "대상을 전투불능으로 만듭니다.<br>대상의 HP가 적을수록 성공률이 증가합니다."
 
     15: |-
-      Grants a stack of Boost, up to a maximum of 16.<br>
-      Boost Bonus: Increases potency of next weaponskill by 30% per stack.<br>
-      Shares a recast timer with all weaponskills.
+      자신에게 30초 동안 지속되는 힘 모으기를 부여합니다. 최대 16단계까지 중첩되며 무기 기술 사용 시 소비됩니다.<br>
+      힘 모으기 효과: 1단계당 무기 기술 위력 30%씩 증가<br>
+      무기 기술과 재사용 대기 시간을 공유합니다.
 
-    16: "Afflicts target with Paralysis."
-    17: "Afflicts target and all nearby enemies with Paralysis."
-    18: "Greatly increases movement speed."
-    19: "Increases evasion by 15%."
+    16: "60초 동안 대상을 마비시킵니다."
+    17: "60초 동안 대상과 그 주위의 적을 마비시킵니다."
+    18: "10초 동안 자신의 이동 속도가 크게 향상됩니다."
+    19: "45초 동안 자신의 회피율이 15% 증가합니다."
 
     20: |-
-      Delivers a ranged attack with a potency of 100.<br>
-      Additional Effect: Afflicts target with Spirit Dart L, increasing damage taken by 8%.
+      대상에게 원거리 물리 공격을 가합니다.<br>
+      위력: 100<br>
+      추가 효과: 대상에게 60초 동안 받는 피해 증가 8% 부여
 
-    21: "Deals unaspected damage to all nearby enemies with a potency of 4,000, while dealing damage with a potency of 999,999 to self."
-    22: "Removes one beneficial status from target."
+    21: |-
+      주위 적에게 범위 마법 공격을 가하고 자신도 큰 피해를 받습니다.<br>
+      위력: 4000<br>
+      받는 피해 위력: 999999
+
+    22: "대상에 걸린 강화 효과를 1개 해제합니다."
 
     23: |-
-      Delivers an attack with a potency of 100.<br>
-      Additional Effect: Reduces target's evasion.
+      대상에게 물리 공격을 가하고, 60초 동안 회피율을 감소시킵니다.<br>
+      위력: 100
 
     24: |-
-      Blend in with your surroundings, making it impossible for most enemies to detect you, but reducing movement speed by 50%.<br>
-      Has no effect on certain enemies with special sight.<br>
-      Cannot be executed while in combat.<br>
-      Effect ends upon use of any action other than Sprint, or upon reuse.
+      모습을 감추어 대부분의 적에게 발각되지 않는 상태가 됩니다.<br>
+      은신 중에는 이동 속도가 50% 저하됩니다.<br>
+      일부 마물에게는 감지당할 수 있습니다.<br>
+      재사용하거나 전력 질주 이외의 다른 기술을 사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지<br>
+      발동 조건: 자신이 전투 중이 아님
 
     25: |-
-      Rush to a target's side.<br>
-      Unable to cast if bound.
+      대상으로 지정한 파티원의 위치로 즉시 이동합니다.<br>
+      속박 상태에서는 사용할 수 없습니다.
 
     26: |-
-      Jump 10 yalms back from current position.<br>
-      Cannot be executed while bound.
+      10미터 후방으로 도약합니다.<br>
+      속박 상태에서는 사용할 수 없습니다.
 
-    27: "Stuns target."
-    28: "Converts a portion of damage dealt into HP."
-    29: "Instantly restores 500 TP and 50% of maximum MP."
+    27: "8초 동안 대상을 기절시킵니다."
+    28: "45초 동안 자신이 준 피해량의 일부를 HP로 흡수합니다."
+    29: "자신의 TP를 500 회복하고, 최대 MP의 50%만큼 MP를 회복합니다."
 
     30: |-
-      Delivers an attack with a potency of 300.<br>
-      Can only be executed immediately after evading an attack.<br>
-      Additional Effect: Slow +20%.
+      대상에게 물리 공격을 가합니다.<br>
+      위력: 300<br>
+      추가 효과: 대상에게 30초 동안 20% 둔화 부여<br>
+      발동 조건: 회피 직후
 
-    31: "Shortens recast time for next ability used by 50%."
+    31: "15초 안에 실행하는 다음 능력의 재사용 대기 시간이 50% 단축됩니다."
 
     32: |-
-      Restores target's HP.<br>
-      Cure Potency: 9,000.
+      대상의 HP를 회복합니다.<br>
+      회복력: 9000
 
     33: |-
-      Restores target's HP.<br>
-      Cure Potency: 12,000.
+      대상의 HP를 회복합니다.<br>
+      회복력: 12000
 
-    34: "Creates a barrier around target that absorbs damage totaling 10% of target's maximum HP."
+    34: "30초 동안 대상의 최대 HP 대비 10%의 피해를 막아주는 보호막을 칩니다."
 
     35: |-
-      Restores HP of target and all party members nearby target.<br>
-      Cure Potency: 9,000.
+      대상과 그 주위에 있는 파티원의 HP를 회복합니다.<br>
+      회복력: 9000
 
     36: |-
-      Grants healing over time effect to target.<br>
-      Cure Potency: 2,500.
+      21초 동안 대상의 HP를 지속적으로 회복합니다.<br>
+      지속 회복력: 2500
 
-    37: "Removes a single detrimental effect from target."
-    38: "Gesture threateningly, placing yourself at the top of the target's enmity list and increasing enmity generation."
-    39: "Resurrects target to a weakened state."
-    40: "Increases target's damage dealt by 10%."
-    41: "Reduces physical damage taken by 99%."
-    42: "Reduces magic damage taken by 99%."
-    43: "Creates a magic-reflecting barrier around self or party member."
+    37: "대상에게 부여된 일부 약화 효과를 1개 해제합니다."
+    38: "대상을 도발하여 자신에 대한 적개심을 1순위로 만들고, 15초 동안 자신에 대한 적개심을 증가시킵니다."
+    39: "대상을 쇠약 상태로 부활시킵니다."
+    40: "100초 동안 대상이 주는 피해량을 10% 증가시킵니다."
+    41: "8초 동안 자신이 받는 물리 피해량이 99% 감소합니다."
+    42: "8초 동안 자신이 받는 마법 피해량이 99% 감소합니다."
+    43: "자신 또는 파티원 1명을 대상으로, 10초 동안 받는 마법 피해를 반사하는 보호막을 칩니다."
 
     44: |-
-      Delivers an attack with a potency of 1,000.<br>
-      Can only be executed when your HP is below 50%.<br>
-      Additional Effect: Restores an amount of own HP proportional to damage dealt.
+      대상에게 물리 공격을 가합니다.<br>
+      위력: 1000<br>
+      이 공격으로 준 피해량에 비례하여 자신의 HP를 회복합니다.<br>
+      발동 조건: 자신의 HP 50% 이하<br>
 
-    45: "Increases the amount of magia aether regenerated over time by self and nearby party members."
+    45: "30초 동안 자신과 주위 파티원의 마정석 에테르 회복량이 증가합니다."
 
     46: |-
-      Deals unaspected damage with a potency of 200.<br>
-      Additional Effect: Afflicts undead targets with Banish L, increasing damage taken by 25%.
+      대상에게 무속성 마법 공격을 가합니다.<br>
+      위력: 200<br>
+      추가 효과: 대상이 언데드일 경우 60초 동안 받는 피해 12% 증가
 
     47: |-
-      Deals unaspected damage with a potency of 150 to target and all enemies nearby it.<br>
-      Additional Effect: Afflicts undead targets with Banish L, increasing damage taken by 25%.
+      대상과 그 주위에 있는 적에게 무속성 마법 공격을 가합니다.<br>
+      위력: 150<br>
+      추가 효과: 대상이 언데드일 경우 60초 동안 받는 피해 12% 증가
 
-    48: "Increaes spell damage by 100% while increasing MP cost."
+    48: "20초 동안 마법 시전 시 MP 소비량과 마법으로 주는 피해량이 100% 증가합니다."
 
     49: |-
-      Increases physical damage dealt while dealing damage to self over time.<br>
-      Stacks increase every 3 seconds, up to a maximum of 16.<br>
-      For each stack, physical damage dealt is increased by 15%, and potency of damage dealt to self increases by 1,200.
+      48초 동안 자신의 HP가 지속적으로 감소하지만, 자신이 주는 물리 피해량이 증가합니다.<br>
+      3초마다 중첩되며 1단계당 주는 물리 피해량이 15%, HP 감소 효과가 1200씩 상승합니다.
 
     50: |-
-      Delivers a ranged attack with a potency of 80.<br>
-      Potency increases up to 1,000% the lower the target's HP.<br>
-      Generates significant enmity upon use.
+      대상에게 원거리 물리 공격을 가합니다.<br>
+      위력: 80<br>
+      대상의 남은 HP가 적을수록 위력이 증가하며, 최대 10배까지 증가합니다.<br>
+      이 기술은 적개심이 크게 상승합니다.
 
     51: |-
       Reveals all traps within a 15-yalm radius.<br>

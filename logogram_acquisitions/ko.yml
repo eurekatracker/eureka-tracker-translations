@@ -3,7 +3,7 @@ logogram_acquisitions:
   "coffer-bronze": "청동 보물상자"
   "coffer-gold": "황금 보물상자"
   "coffer-silver": "백은 보물상자"
-  "heatbox": "Heat-warped Lockbox"
+  "heatbox": "변이된 피로스 잠긴 상자"
   "sprite-conceptual": "내 엘리멘탈레벨 이상의 정령"
   "sprite-fundamental": "Lv. 41 뇌우 정령"
   "sprite-mitigative": "Lv. 46 뇌우 정령"
@@ -24,31 +24,31 @@ logogram_acquisitions:
 
   "NM-curative": |-
     <ul>
-      <li>Leucosia</li>
-      <li>Graffiacane</li>
-      <li>Aetolus</li>
-      <li>Iris</li>
-      <li>Lumber Jack</li>
-      <li>Penthesilea</li>
+      <li>레우코시아</li>
+      <li>그라피아카네</li>
+      <li>아이톨로스</li>
+      <li>이리스</li>
+      <li>럼버잭</li>
+      <li>펜테실레이아</li>
     </ul>
 
   "NM-inimical": |-
     <ul>
-      <li>The Sophist</li>
-      <li>Grand Duke Batym</li>
-      <li>Eldthurs</li>
-      <li>Dux</li>
-      <li>Ying-Yang</li>
+      <li>소피스트</li>
+      <li>바팀 대공/li>
+      <li>엘드투르스</li>
+      <li>번개 사령관</li>
+      <li>음과 양</li>
     </ul>
 
   "NM-protective": |-
     <ul>
-      <li>Flauros</li>
-      <li>Askalaphos</li>
-      <li>Lesath</li>
-      <li>Lamebrix Strikebocks</li>
-      <li>Glaukopis</li>
-      <li>Skoll</li>
+      <li>플라우로스</li>
+      <li>아스칼라포스</li>
+      <li>레사트</li>
+      <li>용병 레임브릭스</li>
+      <li>글라우코피스</li>
+      <li>스콜</li>
     </ul>
 
   "NM-obscure": |-

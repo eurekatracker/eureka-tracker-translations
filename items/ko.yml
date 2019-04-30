@@ -9,7 +9,7 @@ items:
   fafnir: "파프니르 인형 (꼬마 친구)"
   pazuzu: |-
     파주주의 제단 (소품(탁상))<br>
-    Pazuzu Card (트리플 트라이어드 카드)
+    카드: 파주주 (트리플 트라이어드 카드)
 
   # Pagos
   taxim: "카드: 눈요정 (트리플 트라이어드 카드)"
@@ -19,12 +19,12 @@ items:
   louhi: "카드: 로우히 (트리플 트라이어드 카드)"
 
   # Pyros
-  graffiacane: "Calca (꼬마 친구)"
-  lamebrix: "Lamebrix's Dice (마정석 아이템)"
-  lumberJack: "Wind-up Elvaan (꼬마 친구)"
-  yingYang: "Ying-Yang's Tissue (마정석 아이템)"
-  skoll: "Skoll's Claw (마정석 아이템)"
-  penny: "Penthesilea Card (트리플 트라이어드 카드)"
+  graffiacane: "칼카 (꼬마 친구)"
+  lamebrix: "레임브릭스의 주사위 (마정석 아이템)"
+  lumberJack: "엘반 인형 (꼬마 친구)"
+  yingYang: "음과 양의 피막 (마정석 아이템)"
+  skoll: "스콜의 송곳니 (마정석 아이템)"
+  penny: "카드: 펜테실레이아 (트리플 트라이어드 카드)"
 
   # Hydatos
   molech: "Molech's Horn (마정석 아이템)"
