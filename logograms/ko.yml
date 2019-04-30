@@ -1,11 +1,12 @@
 logograms:
   name:
-    1: Conceptual
-    2: Fundamental
-    3: Offensive
-    4: Protective
-    5: Curative
-    6: Tactical
-    7: Inimical
-    8: Mitigative
+    1: 신예
+    2: 숙련
+    3: 공격
+    4: 수비
+    5: 치유
+    6: 정찰
+    7: 방해
+    8: 지원
     9: Obscure
+

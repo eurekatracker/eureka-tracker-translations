@@ -1,12 +1,12 @@
 logogram_tracker:
   reset_actions_warning: |-
-    경고: 모든 로고스 기술을 해제합니다. 계속할까요?
+    경고: 모든 로고스 기술을 초기화합니다. 계속할까요?
 
   reset_count_warning: |-
-    경고: 보유한 로고스를 0으로 초기화 합니다. 계속할까요?
+    경고: 보유한 로고스 샤드를 0개로 초기화합니다. 계속할까요?
 
   consume_mnemes: |-
-    기술을 습득하거나 해제할 때 아래의 기억을 사용
+    기술을 습득하거나 해제할 때 아래의 기억을 소모하기
 
   titles:
     logos_actions: "로고스 기술"
@@ -15,11 +15,11 @@ logogram_tracker:
 
   actions:
     reset: "초기화"
-    click_to_extract: "기술을 클릭하여 습득 또는 해제"
+    click_to_extract: "클릭하여 기술 습득 또는 해제"
 
   filter:
-    "by_logogram": "로고그램 별"
-    "by_type": "종류 별"
+    "by_logogram": "로고스 샤드"
+    "by_type": "종류"
     "default": "기본값"
 
   action_filters:
@@ -27,13 +27,13 @@ logogram_tracker:
       or: "OR"
       and: "AND"
     select:
-      all: "모두"
-      none: "없음"
+      all: "모두 선택"
+      none: "선택 초기화"
     categories:
       jobs: "직업"
       attributes: "속성"
 
-  logograms: "로고그램"
+  logograms: "로고스 샤드"
 
   need: |-
     <span class="highlight">{count}</span> <span class="need">개 필요</span>
