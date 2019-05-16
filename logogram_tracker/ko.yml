@@ -38,4 +38,4 @@ logogram_tracker:
   need: |-
     <span class="highlight">{count}</span> <span class="need">개 필요</span>
 
-  combinations: "조합"
+  combinations: "융합"

@@ -5,6 +5,7 @@ index:
   useLocalTracker: "로컬 트래커 사용"
   creatingInstance: "로딩 중..."
   findTrackers: "트래커 검색"
+  baVisualGuide: 'BA 비주얼 가이드'
 
   messages:
     noLongerAvailable: "{id} 트래커는 활동이 없으므로 더 이상 이용할 수 없습니다"
