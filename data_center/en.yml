@@ -10,6 +10,7 @@ data_center:
     8: "中国二区"
     9: "한국"
     10: "Crystal"
+    11: "Light"
 
   finder:
     trackersIn: 'Trackers in {zone}'
