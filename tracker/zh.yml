@@ -29,11 +29,11 @@ tracker:
   timeDialog:
     timeAgo: '过去时间'
     localTime: '本地时间'
-    hourShort: '小时'
+    hourShort: '时'
     minuteShort: '分'
     secondShort: '秒'
-    minutesAgo: '{count} 分钟之前'
-    hoursAgo: '{count} 小时之前'
+    minutesAgo: '{count} 分前'
+    hoursAgo: '{count} 时前'
 
 
 
