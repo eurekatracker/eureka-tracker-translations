@@ -50,12 +50,12 @@ logos_action:
     48: "文理魔法爆发"
     49: "文理双刃剑"
     50: "文理锐眼追击"
-    51: Perception L
-    52: Wisdom of the Elder
-    53: Wisdom of the Duelist
-    54: Wisdom of the Fiendhunter
-    55: Wisdom of the Indomitable
-    56: Sacrifice L
+    51: "文理探景"
+    52: "贤者的记忆"
+    53: "剑豪的记忆"
+    54: "弓圣的记忆"
+    55: "豪杰的记忆"
+    56: "文理献祭"
 
   type:
     spell: "魔法"
@@ -309,45 +309,36 @@ logos_action:
 
 
     51: |-
-      Reveals all traps within a 15-yalm radius.<br>
-
-      If no traps exist within 15 yalms, detects whether any traps are present within a 36-yalm radius.<br>
-
-      Only effective within dungeons.
+      发现自身周围15米内隐藏的陷阱<br>
+      若周围15米内没有陷阱，则可以获知周围36米内是否存在陷阱<br>
+      此文理技能仅在迷宫内有效
 
     52: |-
-      Increases magic damage dealt by 35% and magic defense by 1,000, while decreasing spell MP cost.<br>
-
-      Cannot be used with other Wisdom abilities.<br>
-
-      Effect ends upon reuse or upon replacement of duty action.
+      令自身发动魔法造成的伤害提高35％，魔法防御力增加1000，并且发动魔法消耗的魔力降低<br>
+      无法与其他“记忆”系技能同时使用<br>
+      切换任务指令时消失<br>再
+      次发动时则取消该状态　持续时间：永久
 
     53: |-
-      Increases physical damage dealt by 40% and maximum HP by 15%, while decreasing weaponskill TP cost.<br>
-
-      Cannot be used with other Wisdom abilities.<br>
-
-      Effect ends upon reuse or upon replacement of duty action.
+      令自身发动物理攻击力造成的伤害提高40％，最大体力增加15％，并且发动战技消耗的技力降低<br>
+      无法与其他“记忆”系技能同时使用<br>
+      切换任务指令时消失<br>再
+      次发动时则取消该状态　持续时间：永久
 
     54: |-
-      Increases physical damage dealt by 25% and evasion by 25%.<br>
-
-      Cannot be used with other Wisdom abilities.<br>
-
-      Effect ends upon reuse or upon replacement of duty action.
+      令自身的发动物理时造成的伤害提高25％，并且回避率提高25％<br>
+      无法与其他“记忆”系技能同时使用<br>
+      切换任务指令时消失<br>
+      再次发动时则取消该状态　持续时间：永久
 
     55: |-
-      Increases defense by 2,000.<br>
-
-      Grants one stack of HP Boost each time damage equal to or greater than half of maximum HP is taken from a single-target attack.<br>
-
-      Cannot be used with other Wisdom abilities.<br>
-
-      Effect ends upon reuse or upon replacement of duty action.
+      令自身的防御力提高2000<br>
+      效果时间内每次受到超过自身最大体力50%以上的单体攻击伤害时，获得1档体力增加<br>
+      无法与其他“记忆”系技能同时使用<br>
+      切换任务指令时消失<br>
+      再次发动时则取消该状态　持续时间：永久
 
     56: |-
-      Restores 100% of target's HP, even if target is KO'd.<br>
-
-      Cannot be executed if currently afflicted with Doom.<br>
-
-      Additional Effect: Inflicts Doom on self.
+      复活目标并恢复其全部体力<br>
+      追加效果：对自己附加“死亡宣告”　持续时间：10秒 <br>
+      发动条件：非“死亡宣告”状态中
