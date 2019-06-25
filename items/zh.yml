@@ -27,9 +27,9 @@ items:
   penny: "九宫幻卡：彭忒西勒亚"
 
   # Hydatos
-  molech: "Molech's Horn (magicite item)"
+  molech: "摩洛的角（丰水三神器）"
   goldemar: |-
-    Goldemar's Horn (magicite item)<br>
-    Dvergr Card (triple triad)
-  ceto: "Ceto's Claw (magicite item)"
-  provenanceWatcher: "Provenance Watcher Card (triple triad)"
+    戈尔德马尔的角（丰水三神器）<br>
+    九宫幻卡：矮儒
+  ceto: "刻托的爪子（丰水三神器）"
+  provenanceWatcher: "九宫幻卡：起源守望者"
