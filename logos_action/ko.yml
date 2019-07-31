@@ -50,12 +50,12 @@ logos_action:
     48: 로고스 마법 작렬
     49: 로고스 양날의 검
     50: 로고스 독수리의 눈
-    51: Perception L
-    52: Wisdom of the Elder
-    53: Wisdom of the Duelist
-    54: Wisdom of the Fiendhunter
-    55: Wisdom of the Indomitable
-    56: Sacrifice L
+    51: 로고스 사이트라
+    52: 현자의 기억
+    53: 검호의 기억
+    54: 궁성의 기억
+    55: 호걸의 기억
+    56: 로고스 희생
 
   type:
     spell: "마법"
@@ -243,32 +243,36 @@ logos_action:
       이 기술은 적개심이 크게 상승합니다.
 
     51: |-
-      Reveals all traps within a 15-yalm radius.<br>
-      If no traps exist within 15 yalms, detects whether any traps are present within a 36-yalm radius.<br>
-      Only effective within dungeons.
+      자신의 반경 15m 안에 숨겨진 함정을 발견합니다.<br>
+      반경 15m 안에 함정이 없으면 반경 36m 안에 함정이 설치되어 있는지를 알려줍니다.<br>
+      이 로고스 기술은 던전 안에서만 효과가 발휘됩니다.
 
     52: |-
-      Increases magic damage dealt by 35% and magic defense by 1,000, while decreasing spell MP cost.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신이 주는 마법 피해량이 35% 증가하며, 마법 방어력이 1000 증가하고, 마법 시전 시 MP 소비량이 감소합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     53: |-
-      Increases physical damage dealt by 40% and maximum HP by 15%, while decreasing weaponskill TP cost.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신이 주는 물리 피해량이 40% 증가하며, 최대 HP가 15% 증가하고, 무기 기술 사용 시 TP 소비량이 감소합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     54: |-
-      Increases physical damage dealt by 25% and evasion by 25%.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신이 주는 물리 피해량이 25% 증가하고, 회피율이 25% 증가합니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     55: |-
-      Increases defense by 2,000.<br>
-      Grants one stack of HP Boost each time damage equal to or greater than half of maximum HP is taken from a single-target attack.<br>
-      Cannot be used with other Wisdom abilities.<br>
-      Effect ends upon reuse or upon replacement of duty action.
+      자신의 방어력이 2000 증가합니다.<br>
+      효과 적용 중에 자신의 최대 HP의 50% 이상 피해를 주는 단일 공격을 받으면 최대 HP 증가 효과가 1단계 중첩됩니다.<br>
+      기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<br>
+      임무용 기술을 재설정하거나 재사용하면 해제됩니다.<br>
+      지속시간: 해제 시까지
 
     56: |-
-      Restores 100% of target's HP, even if target is KO'd.<br>
-      Cannot be executed if currently afflicted with Doom.<br>
-      Additional Effect: Inflicts Doom on self.
+      대상의 HP를 모두 회복하고, 전투불능일 경우 부활시킵니다.<br>
+      추가 효과: 자신에게 10초 동안 죽음의 선고 부여<br>
+      발동 조건: 죽음의 선고 상태가 아닐 때
