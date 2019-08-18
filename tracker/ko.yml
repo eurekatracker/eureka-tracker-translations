@@ -60,7 +60,7 @@ tracker:
     prepped: "마물 소환 준비"
 
   clipboard:
-    specialWeatherInTime: "{weather} 동안 {time}"
+    specialWeatherInTime: "{weather}까지 {time}"
     listSeparator: " \u2192 "
     onCooldown: "토벌한 마물: {list}"
     respawningSoon: "곧 소환 가능한 마물: {list}"
