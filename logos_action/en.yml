@@ -68,191 +68,229 @@ logos_action:
     recast: recast
 
   description:
-    1: |-
+    1: |- # Wisdom of the Aetherweaver
       Increases magic damage dealt by 60%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    2: |-
+    2: |- # Wisdom of the Martialist
       Increases damage dealt by 40%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    3: |-
+    3: |- # Wisdom of the Platebearer
       Increases defense by 3,000 and maximum HP by 50%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    4: |-
+    4: |- # Wisdom of the Guardian
       Increases defense by 1,800 and maximum HP by 10%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    5: |-
+    5: |- # Wisdom of the Ordained
       Increases maximum MP by 50% and healing magic potency by 25%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    6: |-
+    6: |- # Wisdom of the Skirmisher
       Increases damage dealt by 20%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    7: |-
+    7: |- # Wisdom of the Watcher
       Increases evasion by 25% while reducing damage dealt by 5%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    8: |-
+    8: |- # Wisdom of the Templar
       Increases healing magic potency by 50% and maximum HP by 30%, while reducing damage dealt by 5%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    9: |-
+    9: |- # Wisdom of the Irregular
       Increases damage dealt by 30% while reducing magic defense by 60%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    10: |-
+    10: |- # Wisdom of the Breathtaker
       Increases poison resistance and movement speed, including mount speed, and increases evasion by 10%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    11: |-
+    11: |- # Spirit of the Remembered
       Increases maximum HP by 10% and accuracy by 30%.<br>
       Additional Effect: Grants a 70% chance of automatic revival upon KO.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
+    # Protect L
     12: "Increases the physical defense of the target by 1,000."
+
+    # Shell L
     13: "Increases the magic defense of the target by 1,000."
+
+    # Death L
     14: "KOs target. The less the target's HP, the greater the chance of success."
 
+    # Focus L
     15: |-
       Grants a stack of Boost, up to a maximum of 16.<br>
       Boost Bonus: Increases potency of next weaponskill by 30% per stack.<br>
       Shares a recast timer with all weaponskills.
 
+    # Paralyze L
     16: "Afflicts target with Paralysis."
+
+    # Paralyze L III
     17: "Afflicts target and all nearby enemies with Paralysis."
+
+    # Swift L
     18: "Greatly increases movement speed."
+
+    # Featherfoot L
     19: "Increases evasion by 15%."
 
-    20: |-
+    20: |- # Spirit Dart L
       Delivers a ranged attack with a potency of 100.<br>
       Additional Effect: Afflicts target with Spirit Dart L, increasing damage taken by 8%.
 
+    # Catastrophe L
     21: "Deals unaspected damage to all nearby enemies with a potency of 4,000, while dealing damage with a potency of 999,999 to self."
+
+    # Dispel L
     22: "Removes one beneficial status from target."
 
-    23: |-
+    23: |- # Feint L
       Delivers an attack with a potency of 100.<br>
       Additional Effect: Reduces target's evasion.
 
-    24: |-
+    24: |- # Stealth L
       Blend in with your surroundings, making it impossible for most enemies to detect you, but reducing movement speed by 50%.<br>
       Has no effect on certain enemies with special sight.<br>
       Cannot be executed while in combat.<br>
       Effect ends upon use of any action other than Sprint, or upon reuse.
 
-    25: |-
+    25: |- # Aetherial Manipulation L
       Rush to a target's side.<br>
       Unable to cast if bound.
 
-    26: |-
+    26: |- # Backstep L
       Jump 10 yalms back from current position.<br>
       Cannot be executed while bound.
 
+    # Tranquilizer L
     27: "Stuns target."
-    28: "Converts a portion of damage dealt into HP."
-    29: "Instantly restores 500 TP and 50% of maximum MP."
 
-    30: |-
+    # Bloodbath L
+    28: "Converts a portion of damage dealt into HP."
+
+    # Rejuvenate L
+    29: "Instantly restores 50% of maximum HP and MP."
+
+    30: |- # Haymaker L
       Delivers an attack with a potency of 300.<br>
       Can only be executed immediately after evading an attack.<br>
       Additional Effect: Slow +20%.
 
+    # Rapid Recast L
     31: "Shortens recast time for next ability used by 50%."
 
-    32: |-
+    32: |- # Cure L
       Restores target's HP.<br>
       Cure Potency: 9,000.
 
-    33: |-
+    33: |- # Cure L II
       Restores target's HP.<br>
       Cure Potency: 12,000.
 
+    # Stoneskin L
     34: "Creates a barrier around target that absorbs damage totaling 10% of target's maximum HP."
 
-    35: |-
+    35: |- # Cure L III
       Restores HP of target and all party members nearby target.<br>
       Cure Potency: 9,000.
 
-    36: |-
+    36: |- # Regen L
       Grants healing over time effect to target.<br>
       Cure Potency: 2,500.
 
+    # Esuna L
     37: "Removes a single detrimental effect from target."
+
+    # Incense L
     38: "Gesture threateningly, placing yourself at the top of the target's enmity list and increasing enmity generation."
+
+    # Raise L
     39: "Resurrects target to a weakened state."
+
+    # Bravery L
     40: "Increases target's damage dealt by 10%."
+
+    # Solid Shield L
     41: "Reduces physical damage taken by 99%."
+
+    # Spell Shield L
     42: "Reduces magic damage taken by 99%."
+
+    # Reflect L
     43: "Creates a magic-reflecting barrier around self or party member."
 
-    44: |-
+    44: |- # Smite L
       Delivers an attack with a potency of 1,000.<br>
       Can only be executed when your HP is below 50%.<br>
       Additional Effect: Restores an amount of own HP proportional to damage dealt.
 
+    # Refresh L
     45: "Increases the amount of magia aether regenerated over time by self and nearby party members."
 
-    46: |-
+    46: |- # Banish L
       Deals unaspected damage with a potency of 200.<br>
       Additional Effect: Afflicts undead targets with Banish L, increasing damage taken by 25%.
 
-    47: |-
+    47: |- # Banish L III
       Deals unaspected damage with a potency of 150 to target and all enemies nearby it.<br>
       Additional Effect: Afflicts undead targets with Banish L, increasing damage taken by 25%.
 
+    # Magic Burst L
     48: "Increaes spell damage by 100% while increasing MP cost."
 
-    49: |-
+    49: |- # Double Edge L
       Increases physical damage dealt while dealing damage to self over time.<br>
       Stacks increase every 3 seconds, up to a maximum of 16.<br>
       For each stack, physical damage dealt is increased by 15%, and potency of damage dealt to self increases by 1,200.
 
-    50: |-
+    50: |- # Eagle Eye Shot L
       Delivers a ranged attack with a potency of 80.<br>
       Potency increases up to 1,000% the lower the target's HP.<br>
       Generates significant enmity upon use.
 
-    51: |-
+    51: |- # Perception L
       Reveals all traps within a 15-yalm radius.<br>
       If no traps exist within 15 yalms, detects whether any traps are present within a 36-yalm radius.<br>
       Only effective within dungeons.
 
-    52: |-
+    52: |- # Wisdom of the Elder
       Increases magic damage dealt by 35% and magic defense by 1,000, while decreasing spell MP cost.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    53: |-
-      Increases physical damage dealt by 40% and maximum HP by 15%, while decreasing weaponskill TP cost.<br>
+    53: |- # Wisdom of the Duelist
+      Increases physical damage dealt by 40% and maximum HP by 15%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    54: |-
+    54: |- # Wisdom of the Fiendhunter
       Increases physical damage dealt by 25% and evasion by 25%.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    55: |-
+    55: |- # Wisdom of the Indomitable
       Increases defense by 2,000.<br>
       Grants one stack of HP Boost each time damage equal to or greater than half of maximum HP is taken from a single-target attack.<br>
       Cannot be used with other Wisdom abilities.<br>
       Effect ends upon reuse or upon replacement of duty action.
 
-    56: |-
+    56: |- # Sacrifice L
       Restores 100% of target's HP, even if target is KO'd.<br>
       Cannot be executed if currently afflicted with Doom.<br>
       Additional Effect: Inflicts Doom on self.

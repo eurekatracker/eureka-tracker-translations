@@ -16,6 +16,7 @@ logogram_tracker:
   actions:
     reset: "reset"
     click_to_extract: "click action to learn or extract"
+    unlock_all: "unlock all"
 
   filter:
     "by_logogram": "by logogram"
