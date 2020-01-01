@@ -16,6 +16,7 @@ logogram_tracker:
   actions:
     reset: "remettre à zéro"
     click_to_extract: "Cliquer l'action pour l'apprendre ou la créer."
+    unlock_all: "unlock all"
 
   filter:
     "by_logogram": "par logograme"

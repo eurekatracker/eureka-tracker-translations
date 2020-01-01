@@ -16,6 +16,7 @@ logogram_tracker:
   actions:
     reset: "重置"
     click_to_extract: "点击技能进行学习或提取"
+    unlock_all: "unlock all"
 
   filter:
     "by_logogram": "文理排序"

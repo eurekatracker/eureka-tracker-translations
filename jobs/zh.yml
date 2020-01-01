@@ -14,3 +14,5 @@ jobs:
   smn: '召唤'
   war: '战士'
   whm: '白魔'
+  gnb: GNB
+  dnc: DNC

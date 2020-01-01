@@ -16,6 +16,7 @@ logogram_tracker:
   actions:
     reset: "초기화"
     click_to_extract: "클릭하여 기술 습득 또는 해제"
+    unlock_all: "unlock all"
 
   filter:
     "by_logogram": "로고스 샤드"

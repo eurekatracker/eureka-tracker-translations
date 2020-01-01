@@ -16,6 +16,7 @@ logogram_tracker:
   actions:
     reset: "reset"
     click_to_extract: "Klicke auf das Kommando zum Lernen oder Extrahieren"
+    unlock_all: "unlock all"
 
   filter:
     "by_logogram": "nach Logos-Splitter"

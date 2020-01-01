@@ -72,7 +72,6 @@ monster:
     63: "Baron Feuermähne"
     64: "Ceto"
     65: "Kristallwächter"
-    66: "Baldesion Arsenal NM?"
 
   nm_short:
     # Anemos
@@ -147,7 +146,6 @@ monster:
     63: "Baron"
     64: "Ceto"
     65: "Wächter"
-    66: "Arsenal NM?"
 
   fodder:
     # Anemos
@@ -222,7 +220,6 @@ monster:
     63: "Laborlöwe"
     64: "Delphyne der Gezeiten"
     65: "Kristallklaue"
-    66: "Jailers?"
 
   fodder_short:
     # Anemos
@@ -297,4 +294,3 @@ monster:
     63: "Löwe"
     64: "Delphyne"
     65: "Klaue"
-    66: "Jaliers?"

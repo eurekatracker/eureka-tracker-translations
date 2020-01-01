@@ -5,6 +5,7 @@ index:
   useLocalTracker: "使用本地Tracker"
   creatingInstance: "创建中..."
   findTrackers: "查找Tracker"
+  baVisualGuide: 'BA Visual Guide'
 
   messages:
     noLongerAvailable: "Tracker {id} 由于不活动已被停用"

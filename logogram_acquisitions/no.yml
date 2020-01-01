@@ -1,0 +1,60 @@
+logogram_acquisitions:
+  "chain-30": "Chain 30"
+  "coffer-bronze": "Bronze Coffer"
+  "coffer-gold": "Gold Coffer"
+  "coffer-silver": "Silver Coffer"
+  "heatbox": "Heat-warped Lockbox"
+  "sprite-conceptual": "Current or Higher Level Sprites"
+  "sprite-fundamental": "Lv. 41 Thunderstorm Sprite"
+  "sprite-mitigative": "Lv. 46 Thunderstorm Sprite"
+  "undead-adaptation": "Undead Adaptation"
+
+  "sprite-adaptation-inimical": |-
+    <ul>
+      <li>Lv. 52 Snowstorm Sprite Adaptation</li>
+      <li>Lv. 54 Thunderstorm Sprite Adaptation</li>
+      <li>Lv. 55 Typhoon Sprite Adaptation</li>
+    </ul>
+
+  "sprite-adaptation-mitigative": |-
+    <ul>
+      <li>Lv. 43 Ember Sprite Adaptation</li>
+      <li>Lv. 46 Thunderstorm Sprite Adaptation</li>
+    </ul>
+
+  "NM-curative": |-
+    <ul>
+      <li>Leucosia</li>
+      <li>Graffiacane</li>
+      <li>Aetolus</li>
+      <li>Iris</li>
+      <li>Lumber Jack</li>
+      <li>Penthesilea</li>
+    </ul>
+
+  "NM-inimical": |-
+    <ul>
+      <li>The Sophist</li>
+      <li>Grand Duke Batym</li>
+      <li>Eldthurs</li>
+      <li>Dux</li>
+      <li>Ying-Yang</li>
+    </ul>
+
+  "NM-protective": |-
+    <ul>
+      <li>Flauros</li>
+      <li>Askalaphos</li>
+      <li>Lesath</li>
+      <li>Lamebrix Strikebocks</li>
+      <li>Glaukopis</li>
+      <li>Skoll</li>
+    </ul>
+
+  "NM-obscure": |-
+    <ul>
+      <li>Khalimari</li>
+      <li>Stegodon</li>
+      <li>Molech</li>
+      <li>+NM Fodder</li>
+    </ul>

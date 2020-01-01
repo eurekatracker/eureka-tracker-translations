@@ -16,6 +16,7 @@ logogram_tracker:
   actions:
     reset: "リセット"
     click_to_extract: "アクションをクリックで習得または解除"
+    unlock_all: "unlock all"
 
   filter:
     "by_logogram": "シャード別"

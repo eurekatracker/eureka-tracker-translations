@@ -72,7 +72,6 @@ monster:
     63: "Barong"
     64: "Ceto"
     65: "Gardien de la Providence"
-    66: "Baldesion Arsenal NM?"
 
   nm_short:
     # Anemos
@@ -147,7 +146,6 @@ monster:
     63: "Barong"
     64: "Ceto"
     65: "Gardien"
-    66: "Arsenal NM?"
 
   fodder:
     # Anemos
@@ -222,7 +220,6 @@ monster:
     63: "Lion de laboratoire"
     64: "Delphyné d'Hydatos"
     65: "Griffe de cristal"
-    66: "Jailers?"
 
   fodder_short:
     # Anemos
@@ -297,4 +294,3 @@ monster:
     63: "Lion"
     64: "Delphyné"
     65: "Griffe"
-    66: "Jaliers?"

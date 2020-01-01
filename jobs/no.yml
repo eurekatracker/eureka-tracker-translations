@@ -1,18 +1,18 @@
 jobs:
   ast: AST
-  blm: SMA
+  blm: BLM
   brd: BRD
-  drg: DKR
+  drg: DRG
   drk: DRK
   mch: MCH
-  mnk: MÖN
+  mnk: MNK
   nin: NIN
   pld: PLD
-  rdm: RMA
+  rdm: RDM
   sam: SAM
-  sch: GLT
-  smn: BSW
-  war: KRG
-  whm: WMA
+  sch: SCH
+  smn: SMN
+  war: WAR
+  whm: WHM
   gnb: GNB
   dnc: DNC

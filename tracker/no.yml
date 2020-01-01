@@ -23,6 +23,8 @@ tracker:
   resetAllWarning: 'Advarsel: Denne knappen vil tilbakestille tiden for alle drepte NM. Er du sikker?'
   exportTracker: 'eksporter sporer'
   enterPassword: 'skriv inn passord'
+  dataCenter: 'Data Center'
+  instanceId: 'Instance ID'
 
   timeDialog:
     timeAgo: 'siden'
@@ -58,6 +60,33 @@ tracker:
     exportToNewTracker: 'Eksporter til delt sporer'
     enterTrackerPassword: 'Skriv inn passord til sporer'
     setInstanceInformation: 'edit instance data'
+    dataCenterInfo: 'Inputting an instance data center will allow this tracker to be searchable. Instance ids can be obtained using third-party tools, if desired.'
+    prepped: 'NM prepped'
 
   clipboard:
     specialWeatherInTime: '{weather} om {time}'
+    listSeparator: ' \u2192 '
+    onCooldown: 'NMs on cooldown: {list}'
+    respawningSoon: 'NMs respawning soon: {list}'
+    openNow: 'NMs whose windows are open: {list}'
+    nmAvailable: '{nm} (up)'
+    nmRespawn: '{nm} ({respawn})'
+    listNone: 'none'
+    weatherCurrent: '\u2605 Current weather is {weather}! Next {weather} weather in: {time} LT'
+    weatherNext: '\u2605 Next {weather} weather in: {time} LT'
+    nightEnds: '\u2605 Night ends in {time} LT'
+    nightBegins: '\u2605 Night begins in {time} LT'
+    boss:
+      available: '\u2605 "Is {boss} up?" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
+      availableWeather: '\u2605 "Is {boss} up?" \uE089\uE075\uE083, but... ( ; \u0434 ; ) >>> {weather} in {weatherTime} LT'
+      dead: '\u2605 "Is {boss} up?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Up in {time} LT'
+      deadWeather: '\u2605 "Is {boss} up?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> Up in {time}, {weather} in {weatherTime} LT'
+    spamItAll:
+      text: '\u2605 Tracker: {url} \u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 All times are local \u2605'
+      localTrackerText: '\u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 All times are local \u2605'
+      weatherNext: '{weather} weather in {time}'
+      weatherCurrent: '{weather} ends in {endTime} -- Next {weather} in {time}'
+      weatherSeparator: ' \u2605 '
+      nightEnds: 'Night ends in {time}'
+      nightBegins: 'Night begins in {time}'
+

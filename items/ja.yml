@@ -1,0 +1,35 @@
+items:
+  # Anemos
+  lord: "The Prince of Anemos (minion)"
+  emperor: "Emperor Hairpin (glamour)"
+  serket: |-
+    Scorpion Harness (glamour)<br>
+    Wind-up Mithra (minion)
+  strider: "Strider Boots (sprint +10s in city states)"
+  fafnir: "Wind-up Fafnir (minion)"
+  pazuzu: |-
+    Altar to Pazuzu (tabletop)<br>
+    Pazuzu Card (triple triad)
+
+  # Pagos
+  snowqueen: "Yukinko Card (triple triad)"
+  hakutaku: "Optical Hat (eureka effect, gold required)"
+  arthro: "Speed Belt (eureka effect)"
+  cassie: "Cassie Earring (eureka effect)"
+  louhi: "Louhi Card (triple triad)"
+
+  # Pyros
+  graffiacane: "Calca (minion)"
+  lamebrix: "Lamebrix's Dice (magicite item)"
+  lumberJack: "Wind-up Elvaan (minion)"
+  yingYang: "Ying-Yang's Tissue (magicite item)"
+  skoll: "Skoll's Claw (magicite item)"
+  penny: "Penthesilea Card (triple triad)"
+
+  # Hydatos
+  molech: "Molech's Horn (magicite item)"
+  goldemar: |-
+    Goldemar's Horn (magicite item)<br>
+    Dvergr Card (triple triad)
+  ceto: "Ceto's Claw (magicite item)"
+  provenanceWatcher: "Provenance Watcher Card (triple triad)"

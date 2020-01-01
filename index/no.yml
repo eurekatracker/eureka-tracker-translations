@@ -5,3 +5,13 @@ index:
   useLocalTracker: 'Bruk lokal sporer'
   creatingInstance: 'Laster inn...'
   findTrackers: 'Find Trackers'
+  baVisualGuide: 'BA Visual Guide'
+
+  messages:
+    noLongerAvailable: 'Tracker {id} is no longer available due to inactivity'
+    serverError: 'There was an error processing your request, please try again'
+    notFound: 'The tracker you are looking for does not exist'
+
+  tooltips:
+    detailedMap: '{zone} Detailed Map'
+

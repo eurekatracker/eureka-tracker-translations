@@ -5,6 +5,7 @@ index:
   useLocalTracker: 'Tracker local'
   creatingInstance: 'Chargement...'
   findTrackers: 'Chercher des trackers'
+  baVisualGuide: 'BA Visual Guide'
 
   messages:
     noLongerAvailable: "Le tracker {id} n'est plus disponible suite à inactivité"
