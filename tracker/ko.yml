@@ -50,7 +50,7 @@ tracker:
     copyAvailNm: "소환 가능한 마물"
     copyTimeToWeather: "다음 {weather} 시간"
     copyTimeToNight: "밤 주기"
-    isBossUp: '"{boss} 등장했니??"'
+    isBossUp: '"{boss} 소환되니??"'
     spamItAll: "전체 복사"
     exportToLocalTracker: "로컬 트래커로 내보내기"
     exportToNewTracker: "공유 트래커로 내보내기"
