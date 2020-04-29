@@ -73,10 +73,10 @@ tracker:
     nightEnds: "\u2605 {time} LT 후 밤이 끝"
     nightBegins: "\u2605 {time} LT 후 밤이 시작"
     boss:
-      available: '\u2605 "{boss} 등장 했니?" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
-      availableWeather: '\u2605 "{boss} 등장 했니?" \uE089\uE075\uE083, 하지만... ( ; \u0434 ; ) >>> {weatherTime} LT 후 {weather}'
-      dead: '\u2605 "{boss} 등장 했니?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> {time} LT 후 등장'
-      deadWeather: '\u2605 "{boss} 등장 했니?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> {time} 후 등장, {weatherTime} LT 후 {weather}'
+      available: '\u2605 "{boss} 소환되니?" \uE089\uE075\uE083! (\uFF89\u00B0\u30EE\u00B0)\uFF89'
+      availableWeather: '\u2605 "{boss} 소환되니?" \uE089\uE075\uE083, 하지만... ( ; \u0434 ; ) >>> {weatherTime} LT 후 {weather}'
+      dead: '\u2605 "{boss} 소환되니?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> {time} LT 후 등장'
+      deadWeather: '\u2605 "{boss} 소환되니?" \uE07E\uE07F! (\u30CE\u00B0\u76CA\u00B0)\u30CE >>> {time} 후 등장, {weatherTime} LT 후 {weather}'
     spamItAll:
       text: "\u2605 트래커: {url} \u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 모든 시간은 로컬시간 \u2605"
       localTrackerText: "\u2605 {nmList} \u2605 {weatherList} \u2605 {nightTime} \u2605 모든 시간은 로컬시간 \u2605"
