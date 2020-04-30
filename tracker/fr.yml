@@ -7,7 +7,7 @@ tracker:
   notoriousMonster: 'NM'
   spawnedBy: 'Apparition par'
   position: 'POS'
-  popped: 'Apparu à'
+  popped: 'Apparition avec'
   respawn: 'Réapparition'
   gales: 'Vents violents'
   weather: 'Météo'
