@@ -2,7 +2,7 @@ tracker:
   trackerId: 'id du tracker'
   instance: 'instance'
   pw: 'mdp'
-  copyToClipboard: 'copier su presse-papier'
+  copyToClipboard: 'copier sur presse-papier'
   level: 'Niv'
   notoriousMonster: 'NM'
   spawnedBy: 'Apparition par'
