@@ -11,6 +11,7 @@ data_center:
     9: "한국"
     10: "Crystal"
     11: "Light"
+    12: "Materia"
 
   finder:
     trackersIn: 'Tracker in {zone}'
