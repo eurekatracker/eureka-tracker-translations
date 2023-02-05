@@ -13,6 +13,7 @@ data_center:
     11: "Light"
     12: "Materia"
     13: "Dynamis"
+    14: "Meteor"
 
   finder:
     trackersIn: 'Trackers in {zone}'
